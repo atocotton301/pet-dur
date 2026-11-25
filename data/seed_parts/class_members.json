@@ -1,0 +1,512 @@
+{
+  "members": [
+    {
+      "class_en": "NSAIDs",
+      "member_en": "aspirin",
+      "member_ko": "아스피린",
+      "source_name": "Merck Veterinary Manual - Nonsteroidal Anti-inflammatory Drugs in Animals",
+      "source_url": "https://www.merckvetmanual.com/pharmacology/inflammation/nonsteroidal-anti-inflammatory-drugs-in-animals",
+      "source_tier": 2,
+      "evidence": "Aspirin described as by far the most widely used NSAID in humans, also used in veterinary medicine."
+    },
+    {
+      "class_en": "NSAIDs",
+      "member_en": "ibuprofen",
+      "member_ko": "이부프로펜",
+      "source_name": "Merck Veterinary Manual - Nonsteroidal Anti-inflammatory Drugs in Animals",
+      "source_url": "https://www.merckvetmanual.com/pharmacology/inflammation/nonsteroidal-anti-inflammatory-drugs-in-animals",
+      "source_tier": 2,
+      "evidence": "Ibuprofen discussed as an arylpropionic acid derivative in the Other NSAIDs section."
+    },
+    {
+      "class_en": "NSAIDs",
+      "member_en": "naproxen",
+      "member_ko": "나프록센",
+      "source_name": "Merck Veterinary Manual - Nonsteroidal Anti-inflammatory Drugs in Animals",
+      "source_url": "https://www.merckvetmanual.com/pharmacology/inflammation/nonsteroidal-anti-inflammatory-drugs-in-animals",
+      "source_tier": 2,
+      "evidence": "Naproxen discussed in the NSAID chapter (used in horses)."
+    },
+    {
+      "class_en": "NSAIDs",
+      "member_en": "ketoprofen",
+      "member_ko": "케토프로펜",
+      "source_name": "Merck Veterinary Manual - Nonsteroidal Anti-inflammatory Drugs in Animals",
+      "source_url": "https://www.merckvetmanual.com/pharmacology/inflammation/nonsteroidal-anti-inflammatory-drugs-in-animals",
+      "source_tier": 2,
+      "evidence": "Ketoprofen listed as a propionic acid NSAID with its own section."
+    },
+    {
+      "class_en": "NSAIDs",
+      "member_en": "diclofenac",
+      "member_ko": "디클로페낙",
+      "source_name": "Merck Veterinary Manual - Nonsteroidal Anti-inflammatory Drugs in Animals",
+      "source_url": "https://www.merckvetmanual.com/pharmacology/inflammation/nonsteroidal-anti-inflammatory-drugs-in-animals",
+      "source_tier": 2,
+      "evidence": "Robenacoxib section calls it structurally related to the human NSAIDs diclofenac and lumiracoxib."
+    },
+    {
+      "class_en": "NSAIDs",
+      "member_en": "meloxicam",
+      "member_ko": "멜록시캄",
+      "source_name": "Merck Veterinary Manual - Nonsteroidal Anti-inflammatory Drugs in Animals",
+      "source_url": "https://www.merckvetmanual.com/pharmacology/inflammation/nonsteroidal-anti-inflammatory-drugs-in-animals",
+      "source_tier": 2,
+      "evidence": "Meloxicam described as an oxicam NSAID."
+    },
+    {
+      "class_en": "NSAIDs",
+      "member_en": "carprofen",
+      "member_ko": "카프로펜",
+      "source_name": "Merck Veterinary Manual - Nonsteroidal Anti-inflammatory Drugs in Animals",
+      "source_url": "https://www.merckvetmanual.com/pharmacology/inflammation/nonsteroidal-anti-inflammatory-drugs-in-animals",
+      "source_tier": 2,
+      "evidence": "Carprofen described as an NSAID of the arylpropionic acid class."
+    },
+    {
+      "class_en": "NSAIDs",
+      "member_en": "firocoxib",
+      "member_ko": "피로콕시브",
+      "source_name": "Merck Veterinary Manual - Nonsteroidal Anti-inflammatory Drugs in Animals",
+      "source_url": "https://www.merckvetmanual.com/pharmacology/inflammation/nonsteroidal-anti-inflammatory-drugs-in-animals",
+      "source_tier": 2,
+      "evidence": "Firocoxib described as a coxib-class NSAID approved in the US and EU."
+    },
+    {
+      "class_en": "NSAIDs",
+      "member_en": "deracoxib",
+      "member_ko": "데라콕시브",
+      "source_name": "Merck Veterinary Manual - Nonsteroidal Anti-inflammatory Drugs in Animals",
+      "source_url": "https://www.merckvetmanual.com/pharmacology/inflammation/nonsteroidal-anti-inflammatory-drugs-in-animals",
+      "source_tier": 2,
+      "evidence": "Deracoxib described as the first coxib-class NSAID approved for dogs."
+    },
+    {
+      "class_en": "NSAIDs",
+      "member_en": "robenacoxib",
+      "member_ko": "로베나콕시브",
+      "source_name": "Merck Veterinary Manual - Nonsteroidal Anti-inflammatory Drugs in Animals",
+      "source_url": "https://www.merckvetmanual.com/pharmacology/inflammation/nonsteroidal-anti-inflammatory-drugs-in-animals",
+      "source_tier": 2,
+      "evidence": "Robenacoxib listed among coxib NSAIDs (deracoxib, firocoxib, robenacoxib, mavacoxib, cimicoxib)."
+    },
+    {
+      "class_en": "NSAIDs",
+      "member_en": "grapiprant",
+      "member_ko": "그라피프란트",
+      "source_name": "Merck Veterinary Manual - Nonsteroidal Anti-inflammatory Drugs in Animals",
+      "source_url": "https://www.merckvetmanual.com/pharmacology/inflammation/nonsteroidal-anti-inflammatory-drugs-in-animals",
+      "source_tier": 2,
+      "evidence": "Page calls grapiprant a new NSAID while noting it is not a COX-1/COX-2 inhibitor (EP4 receptor antagonist)."
+    },
+    {
+      "class_en": "NSAIDs",
+      "member_en": "dexibuprofen",
+      "member_ko": "덱시부프로펜",
+      "source_name": "Cochrane Database Syst Rev (PMC) - Single dose oral dexibuprofen [S(+)-ibuprofen] for acute postoperative pain in adults",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4170892/",
+      "source_tier": 1,
+      "evidence": "Cochrane review describes dexibuprofen as a non-steroidal anti-inflammatory drug (NSAID)."
+    },
+    {
+      "class_en": "NSAIDs",
+      "member_en": "loxoprofen",
+      "member_ko": "록소프로펜",
+      "source_name": "J Pharm Health Care Sci 2021 (PMC) - Pharmacokinetics of loxoprofen in a self-administered overdose",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8422741/",
+      "source_tier": 1,
+      "evidence": "Article calls loxoprofen the most prescribed NSAID in Japan."
+    },
+    {
+      "class_en": "corticosteroids (glucocorticoids)",
+      "member_en": "prednisolone",
+      "member_ko": "프레드니솔론",
+      "source_name": "Merck Veterinary Manual - Corticosteroids in Animals",
+      "source_url": "https://www.merckvetmanual.com/pharmacology/inflammation/corticosteroids-in-animals",
+      "source_tier": 2,
+      "evidence": "Prednisolone discussed as a glucocorticoid and listed in the relative potencies of corticosteroids table."
+    },
+    {
+      "class_en": "corticosteroids (glucocorticoids)",
+      "member_en": "prednisone",
+      "member_ko": "프레드니손",
+      "source_name": "Merck Veterinary Manual - Corticosteroids in Animals",
+      "source_url": "https://www.merckvetmanual.com/pharmacology/inflammation/corticosteroids-in-animals",
+      "source_tier": 2,
+      "evidence": "Prednisone discussed as a glucocorticoid (converted to prednisolone) and in the potency table."
+    },
+    {
+      "class_en": "corticosteroids (glucocorticoids)",
+      "member_en": "dexamethasone",
+      "member_ko": "덱사메타손",
+      "source_name": "Merck Veterinary Manual - Corticosteroids in Animals",
+      "source_url": "https://www.merckvetmanual.com/pharmacology/inflammation/corticosteroids-in-animals",
+      "source_tier": 2,
+      "evidence": "Dexamethasone named as a potent fluorinated glucocorticoid; in potency table."
+    },
+    {
+      "class_en": "corticosteroids (glucocorticoids)",
+      "member_en": "methylprednisolone",
+      "member_ko": "메틸프레드니솔론",
+      "source_name": "Merck Veterinary Manual - Corticosteroids in Animals",
+      "source_url": "https://www.merckvetmanual.com/pharmacology/inflammation/corticosteroids-in-animals",
+      "source_tier": 2,
+      "evidence": "Methylprednisolone (acetate) named among corticosteroid formulations; in potency table."
+    },
+    {
+      "class_en": "corticosteroids (glucocorticoids)",
+      "member_en": "hydrocortisone",
+      "member_ko": "히드로코르티손",
+      "source_name": "Merck Veterinary Manual - Corticosteroids in Animals",
+      "source_url": "https://www.merckvetmanual.com/pharmacology/inflammation/corticosteroids-in-animals",
+      "source_tier": 2,
+      "evidence": "Hydrocortisone (cortisol) is the reference corticosteroid in the relative potency table."
+    },
+    {
+      "class_en": "corticosteroids (glucocorticoids)",
+      "member_en": "triamcinolone",
+      "member_ko": "트리암시놀론",
+      "source_name": "Merck Veterinary Manual - Corticosteroids in Animals",
+      "source_url": "https://www.merckvetmanual.com/pharmacology/inflammation/corticosteroids-in-animals",
+      "source_tier": 2,
+      "evidence": "Triamcinolone named among fluorinated glucocorticoids with virtually no mineralocorticoid effect."
+    },
+    {
+      "class_en": "corticosteroids (glucocorticoids)",
+      "member_en": "betamethasone",
+      "member_ko": "베타메타손",
+      "source_name": "Merck Veterinary Manual - Corticosteroids in Animals",
+      "source_url": "https://www.merckvetmanual.com/pharmacology/inflammation/corticosteroids-in-animals",
+      "source_tier": 2,
+      "evidence": "Betamethasone named with triamcinolone and dexamethasone as fluorinated glucocorticoids."
+    },
+    {
+      "class_en": "selective serotonin reuptake inhibitors (SSRIs)",
+      "member_en": "fluoxetine",
+      "member_ko": "플루옥세틴",
+      "source_name": "Merck Veterinary Manual - Psychotropic Agents for Treatment of Animals",
+      "source_url": "https://merckvetmanual.com/pharmacology/systemic-pharmacotherapeutics-of-the-nervous-system/psychotropic-agents",
+      "source_tier": 2,
+      "evidence": "SSRIs, including fluoxetine, sertraline, and paroxetine."
+    },
+    {
+      "class_en": "selective serotonin reuptake inhibitors (SSRIs)",
+      "member_en": "sertraline",
+      "member_ko": "서트랄린",
+      "source_name": "Merck Veterinary Manual - Psychotropic Agents for Treatment of Animals",
+      "source_url": "https://merckvetmanual.com/pharmacology/systemic-pharmacotherapeutics-of-the-nervous-system/psychotropic-agents",
+      "source_tier": 2,
+      "evidence": "SSRIs, including fluoxetine, sertraline, and paroxetine."
+    },
+    {
+      "class_en": "selective serotonin reuptake inhibitors (SSRIs)",
+      "member_en": "paroxetine",
+      "member_ko": "파록세틴",
+      "source_name": "Merck Veterinary Manual - Psychotropic Agents for Treatment of Animals",
+      "source_url": "https://merckvetmanual.com/pharmacology/systemic-pharmacotherapeutics-of-the-nervous-system/psychotropic-agents",
+      "source_tier": 2,
+      "evidence": "SSRIs, including fluoxetine, sertraline, and paroxetine."
+    },
+    {
+      "class_en": "selective serotonin reuptake inhibitors (SSRIs)",
+      "member_en": "citalopram",
+      "member_ko": "시탈로프람",
+      "source_name": "Merck Veterinary Manual - Table: Antidepressants",
+      "source_url": "https://www.merckvetmanual.com/multimedia/table/antidepressants",
+      "source_tier": 2,
+      "evidence": "Antidepressants table lists citalopram under SSRIs."
+    },
+    {
+      "class_en": "selective serotonin reuptake inhibitors (SSRIs)",
+      "member_en": "escitalopram",
+      "member_ko": "에스시탈로프람",
+      "source_name": "Merck Veterinary Manual - Table: Antidepressants",
+      "source_url": "https://www.merckvetmanual.com/multimedia/table/antidepressants",
+      "source_tier": 2,
+      "evidence": "Antidepressants table lists escitalopram under SSRIs."
+    },
+    {
+      "class_en": "selective serotonin reuptake inhibitors (SSRIs)",
+      "member_en": "fluvoxamine",
+      "member_ko": "플루복사민",
+      "source_name": "Merck Veterinary Manual - Table: Antidepressants",
+      "source_url": "https://www.merckvetmanual.com/multimedia/table/antidepressants",
+      "source_tier": 2,
+      "evidence": "Antidepressants table lists fluvoxamine under SSRIs."
+    },
+    {
+      "class_en": "tricyclic antidepressants (TCAs)",
+      "member_en": "amitriptyline",
+      "member_ko": "아미트립틸린",
+      "source_name": "Merck Veterinary Manual - Psychotropic Agents for Treatment of Animals",
+      "source_url": "https://merckvetmanual.com/pharmacology/systemic-pharmacotherapeutics-of-the-nervous-system/psychotropic-agents",
+      "source_tier": 2,
+      "evidence": "The tricyclic antidepressants include amitriptyline, imipramine, clomipramine, and doxepin."
+    },
+    {
+      "class_en": "tricyclic antidepressants (TCAs)",
+      "member_en": "clomipramine",
+      "member_ko": "클로미프라민",
+      "source_name": "Merck Veterinary Manual - Psychotropic Agents for Treatment of Animals",
+      "source_url": "https://merckvetmanual.com/pharmacology/systemic-pharmacotherapeutics-of-the-nervous-system/psychotropic-agents",
+      "source_tier": 2,
+      "evidence": "The tricyclic antidepressants include amitriptyline, imipramine, clomipramine, and doxepin."
+    },
+    {
+      "class_en": "tricyclic antidepressants (TCAs)",
+      "member_en": "imipramine",
+      "member_ko": "이미프라민",
+      "source_name": "Merck Veterinary Manual - Psychotropic Agents for Treatment of Animals",
+      "source_url": "https://merckvetmanual.com/pharmacology/systemic-pharmacotherapeutics-of-the-nervous-system/psychotropic-agents",
+      "source_tier": 2,
+      "evidence": "The tricyclic antidepressants include amitriptyline, imipramine, clomipramine, and doxepin."
+    },
+    {
+      "class_en": "tricyclic antidepressants (TCAs)",
+      "member_en": "doxepin",
+      "member_ko": "독세핀",
+      "source_name": "Merck Veterinary Manual - Psychotropic Agents for Treatment of Animals",
+      "source_url": "https://merckvetmanual.com/pharmacology/systemic-pharmacotherapeutics-of-the-nervous-system/psychotropic-agents",
+      "source_tier": 2,
+      "evidence": "The tricyclic antidepressants include amitriptyline, imipramine, clomipramine, and doxepin."
+    },
+    {
+      "class_en": "tricyclic antidepressants (TCAs)",
+      "member_en": "nortriptyline",
+      "member_ko": "노르트립틸린",
+      "source_name": "Merck Veterinary Manual - Table: Antidepressants",
+      "source_url": "https://www.merckvetmanual.com/multimedia/table/antidepressants",
+      "source_tier": 2,
+      "evidence": "Antidepressants table lists nortriptyline under tricyclic antidepressants."
+    },
+    {
+      "class_en": "monoamine oxidase inhibitors (MAOIs)",
+      "member_en": "selegiline",
+      "member_ko": "셀레길린",
+      "source_name": "Merck Veterinary Manual - Psychotropic Agents for Treatment of Animals",
+      "source_url": "https://merckvetmanual.com/pharmacology/systemic-pharmacotherapeutics-of-the-nervous-system/psychotropic-agents",
+      "source_tier": 2,
+      "evidence": "Monoamine oxidase inhibitors, such as selegiline."
+    },
+    {
+      "class_en": "monoamine oxidase inhibitors (MAOIs)",
+      "member_en": "amitraz",
+      "member_ko": "아미트라즈",
+      "source_name": "Merck Veterinary Manual - Triazapentadiene (Amitraz) Toxicosis in Animals",
+      "source_url": "https://www.merckvetmanual.com/toxicology/insecticide-and-acaricide-organic-toxicity/triazapentadiene-amitraz-toxicosis-in-animals",
+      "source_tier": 2,
+      "evidence": "Mechanism section states amitraz inhibits monoamine oxidase (MAO) enzyme activity (also acts on alpha-2 receptors); page does not use the label MAOI."
+    },
+    {
+      "class_en": "azole antifungals",
+      "member_en": "ketoconazole",
+      "member_ko": "케토코나졸",
+      "source_name": "Merck Veterinary Manual - Azoles for Use in Animals",
+      "source_url": "https://www.merckvetmanual.com/pharmacology/antifungal-agents/azoles-for-use-in-animals",
+      "source_tier": 2,
+      "evidence": "Ketoconazole named among the best-known imidazole azoles."
+    },
+    {
+      "class_en": "azole antifungals",
+      "member_en": "itraconazole",
+      "member_ko": "이트라코나졸",
+      "source_name": "Merck Veterinary Manual - Azoles for Use in Animals",
+      "source_url": "https://www.merckvetmanual.com/pharmacology/antifungal-agents/azoles-for-use-in-animals",
+      "source_tier": 2,
+      "evidence": "Itraconazole named among the most clinically important triazoles."
+    },
+    {
+      "class_en": "azole antifungals",
+      "member_en": "fluconazole",
+      "member_ko": "플루코나졸",
+      "source_name": "Merck Veterinary Manual - Azoles for Use in Animals",
+      "source_url": "https://www.merckvetmanual.com/pharmacology/antifungal-agents/azoles-for-use-in-animals",
+      "source_tier": 2,
+      "evidence": "Fluconazole named among the most clinically important triazoles."
+    },
+    {
+      "class_en": "azole antifungals",
+      "member_en": "voriconazole",
+      "member_ko": "보리코나졸",
+      "source_name": "Merck Veterinary Manual - Azoles for Use in Animals",
+      "source_url": "https://www.merckvetmanual.com/pharmacology/antifungal-agents/azoles-for-use-in-animals",
+      "source_tier": 2,
+      "evidence": "Voriconazole named among the most clinically important triazoles."
+    },
+    {
+      "class_en": "azole antifungals",
+      "member_en": "posaconazole",
+      "member_ko": "포사코나졸",
+      "source_name": "Merck Veterinary Manual - Azoles for Use in Animals",
+      "source_url": "https://www.merckvetmanual.com/pharmacology/antifungal-agents/azoles-for-use-in-animals",
+      "source_tier": 2,
+      "evidence": "Posaconazole named among the most clinically important triazoles."
+    },
+    {
+      "class_en": "opioids",
+      "member_en": "morphine",
+      "member_ko": "모르핀",
+      "source_name": "Merck Veterinary Manual - Analgesics Used in Animals",
+      "source_url": "https://www.merckvetmanual.com/management-and-nutrition/pain-assessment-and-management/analgesics-used-in-animals",
+      "source_tier": 2,
+      "evidence": "mu agonists (eg, morphine, hydromorphone, fentanyl); dosage table class Opioid."
+    },
+    {
+      "class_en": "opioids",
+      "member_en": "hydromorphone",
+      "member_ko": "히드로모르폰",
+      "source_name": "Merck Veterinary Manual - Analgesics Used in Animals",
+      "source_url": "https://www.merckvetmanual.com/management-and-nutrition/pain-assessment-and-management/analgesics-used-in-animals",
+      "source_tier": 2,
+      "evidence": "mu agonists (eg, morphine, hydromorphone, fentanyl); dosage table class Opioid."
+    },
+    {
+      "class_en": "opioids",
+      "member_en": "fentanyl",
+      "member_ko": "펜타닐",
+      "source_name": "Merck Veterinary Manual - Analgesics Used in Animals",
+      "source_url": "https://www.merckvetmanual.com/management-and-nutrition/pain-assessment-and-management/analgesics-used-in-animals",
+      "source_tier": 2,
+      "evidence": "mu agonists (eg, morphine, hydromorphone, fentanyl); dosage table class Opioid."
+    },
+    {
+      "class_en": "opioids",
+      "member_en": "buprenorphine",
+      "member_ko": "부프레노르핀",
+      "source_name": "Merck Veterinary Manual - Analgesics Used in Animals",
+      "source_url": "https://www.merckvetmanual.com/management-and-nutrition/pain-assessment-and-management/analgesics-used-in-animals",
+      "source_tier": 2,
+      "evidence": "Listed as the partial mu opioid agonist (buprenorphine)."
+    },
+    {
+      "class_en": "opioids",
+      "member_en": "butorphanol",
+      "member_ko": "부토르파놀",
+      "source_name": "Merck Veterinary Manual - Analgesics Used in Animals",
+      "source_url": "https://www.merckvetmanual.com/management-and-nutrition/pain-assessment-and-management/analgesics-used-in-animals",
+      "source_tier": 2,
+      "evidence": "Listed as an opioid agonist-antagonist (butorphanol)."
+    },
+    {
+      "class_en": "opioids",
+      "member_en": "methadone",
+      "member_ko": "메타돈",
+      "source_name": "Merck Veterinary Manual - Analgesics Used in Animals",
+      "source_url": "https://www.merckvetmanual.com/management-and-nutrition/pain-assessment-and-management/analgesics-used-in-animals",
+      "source_tier": 2,
+      "evidence": "Dosage table class Opioid for methadone."
+    },
+    {
+      "class_en": "opioids",
+      "member_en": "tramadol",
+      "member_ko": "트라마돌",
+      "source_name": "Merck Veterinary Manual - Analgesics Used in Animals",
+      "source_url": "https://www.merckvetmanual.com/management-and-nutrition/pain-assessment-and-management/analgesics-used-in-animals",
+      "source_tier": 2,
+      "evidence": "Tramadol described as a weak mu opioid receptor agonist; table class Synthetic opioid."
+    },
+    {
+      "class_en": "opioids",
+      "member_en": "codeine",
+      "member_ko": "코데인",
+      "source_name": "FDA - Codeine Information",
+      "source_url": "https://www.fda.gov/drugs/postmarket-drug-safety-information-patients-and-providers/codeine-information",
+      "source_tier": 1,
+      "evidence": "FDA page states codeine is an opioid pain reliever."
+    },
+    {
+      "class_en": "alpha-2 agonists",
+      "member_en": "dexmedetomidine",
+      "member_ko": "덱스메데토미딘",
+      "source_name": "Merck Veterinary Manual - Analgesics Used in Animals",
+      "source_url": "https://www.merckvetmanual.com/management-and-nutrition/pain-assessment-and-management/analgesics-used-in-animals",
+      "source_tier": 2,
+      "evidence": "Dosage tables class dexmedetomidine as Alpha-2 adrenergic receptor agonist."
+    },
+    {
+      "class_en": "alpha-2 agonists",
+      "member_en": "xylazine",
+      "member_ko": "자일라진",
+      "source_name": "Merck Veterinary Manual - Analgesics Used in Animals",
+      "source_url": "https://www.merckvetmanual.com/management-and-nutrition/pain-assessment-and-management/analgesics-used-in-animals",
+      "source_tier": 2,
+      "evidence": "Dog dosage table classes xylazine as Alpha-2 adrenergic receptor agonist."
+    },
+    {
+      "class_en": "alpha-2 agonists",
+      "member_en": "medetomidine",
+      "member_ko": "메데토미딘",
+      "source_name": "MSD Veterinary Manual - Drugs Used to Relieve Pain in Animals",
+      "source_url": "https://www.msdvetmanual.com/special-pet-topics/pain-management/drugs-used-to-relieve-pain",
+      "source_tier": 2,
+      "evidence": "Examples of alpha-2 agonists are xylazine, medetomidine, detomidine, and romifidine."
+    },
+    {
+      "class_en": "alpha-2 agonists",
+      "member_en": "detomidine",
+      "member_ko": "데토미딘",
+      "source_name": "MSD Veterinary Manual - Drugs Used to Relieve Pain in Animals",
+      "source_url": "https://www.msdvetmanual.com/special-pet-topics/pain-management/drugs-used-to-relieve-pain",
+      "source_tier": 2,
+      "evidence": "Examples of alpha-2 agonists are xylazine, medetomidine, detomidine, and romifidine."
+    },
+    {
+      "class_en": "alpha-2 agonists",
+      "member_en": "romifidine",
+      "member_ko": "로미피딘",
+      "source_name": "MSD Veterinary Manual - Drugs Used to Relieve Pain in Animals",
+      "source_url": "https://www.msdvetmanual.com/special-pet-topics/pain-management/drugs-used-to-relieve-pain",
+      "source_tier": 2,
+      "evidence": "Examples of alpha-2 agonists are xylazine, medetomidine, detomidine, and romifidine."
+    },
+    {
+      "class_en": "ACE inhibitors",
+      "member_en": "enalapril",
+      "member_ko": "에날라프릴",
+      "source_name": "Merck Veterinary Manual - Angiotensin-Converting Enzyme Inhibitors for Use in Animals",
+      "source_url": "https://www.merckvetmanual.com/pharmacology/systemic-pharmacotherapeutics-of-the-cardiovascular-system/angiotensin-converting-enzyme-inhibitors-for-use-in-animals",
+      "source_tier": 2,
+      "evidence": "Enalapril and benazepril are widely administered ACE inhibitors."
+    },
+    {
+      "class_en": "ACE inhibitors",
+      "member_en": "benazepril",
+      "member_ko": "베나제프릴",
+      "source_name": "Merck Veterinary Manual - Angiotensin-Converting Enzyme Inhibitors for Use in Animals",
+      "source_url": "https://www.merckvetmanual.com/pharmacology/systemic-pharmacotherapeutics-of-the-cardiovascular-system/angiotensin-converting-enzyme-inhibitors-for-use-in-animals",
+      "source_tier": 2,
+      "evidence": "Enalapril and benazepril are widely administered ACE inhibitors."
+    },
+    {
+      "class_en": "ACE inhibitors",
+      "member_en": "ramipril",
+      "member_ko": "라미프릴",
+      "source_name": "Merck Veterinary Manual - Angiotensin-Converting Enzyme Inhibitors for Use in Animals",
+      "source_url": "https://www.merckvetmanual.com/pharmacology/systemic-pharmacotherapeutics-of-the-cardiovascular-system/angiotensin-converting-enzyme-inhibitors-for-use-in-animals",
+      "source_tier": 2,
+      "evidence": "A wide variety of other ACE inhibitors (eg, lisinopril, ramipril) are used."
+    },
+    {
+      "class_en": "ACE inhibitors",
+      "member_en": "lisinopril",
+      "member_ko": "리시노프릴",
+      "source_name": "Merck Veterinary Manual - Angiotensin-Converting Enzyme Inhibitors for Use in Animals",
+      "source_url": "https://www.merckvetmanual.com/pharmacology/systemic-pharmacotherapeutics-of-the-cardiovascular-system/angiotensin-converting-enzyme-inhibitors-for-use-in-animals",
+      "source_tier": 2,
+      "evidence": "A wide variety of other ACE inhibitors (eg, lisinopril, ramipril) are used."
+    },
+    {
+      "class_en": "ACE inhibitors",
+      "member_en": "imidapril",
+      "member_ko": "이미다프릴",
+      "source_name": "J Vet Intern Med 2019 (PMC) - The renin-angiotensin-aldosterone system and its suppression",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6430926/",
+      "source_tier": 1,
+      "evidence": "ACEI part of cardiac-disease section: of these, enalapril and benazepril, and to a lesser degree imidapril and ramipril, have been extensively studied; imidapril non-inferior to enalapril and benazepril."
+    }
+  ],
+  "not_found": [
+    "dextromethorphan (opioids): Merck Antitussive Drugs page calls it an opioid derivative but technically not an opiate and not binding opiate receptors; not added",
+    "terbinafine (azole antifungals): excluded by rule, not an azole"
+  ]
+}

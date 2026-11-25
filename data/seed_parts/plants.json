@@ -1,0 +1,1009 @@
+{
+  "toxicity": [
+    {
+      "substance_ko": "백합(나리속)",
+      "substance_en": "Lily (Lilium spp.)",
+      "type": "plant",
+      "species": "cat",
+      "risk": "danger",
+      "mechanism_ko": "독성 원인 물질은 밝혀지지 않았으나 고양이에서 급성 신부전을 일으킨다. 고양이만 영향을 받는 것으로 알려져 있다.",
+      "symptoms_ko": [
+        "구토",
+        "식욕 부진",
+        "무기력",
+        "신부전",
+        "사망 가능"
+      ],
+      "first_aid_ko": [
+        "식물을 즉시 치우고 추가 섭취를 막는다",
+        "증상이 없어도 즉시 동물병원 또는 동물 중독상담센터에 연락한다",
+        "집에서 임의로 구토를 유도하지 않는다"
+      ],
+      "source_name": "ASPCA Toxic and Non-Toxic Plants - Lily",
+      "source_url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/lily",
+      "source_tier": 2,
+      "evidence": "ASPCA Lily (Lilium species) page: toxic to cats, principle unknown, signs 'Cats: kidney failure'; ASPCA Easter Lily and Tiger Lily pages list vomiting, inappetence, lethargy, kidney failure, possible death, cats only species known affected."
+    },
+    {
+      "substance_ko": "백합(나리속)",
+      "substance_en": "Lily (Lilium spp.)",
+      "type": "plant",
+      "species": "dog",
+      "risk": "safe",
+      "mechanism_ko": "ASPCA는 나리속 백합을 개에게 비독성으로 분류한다. 다만 어떤 식물이든 먹으면 가벼운 구토·위장 불편이 생길 수 있다.",
+      "symptoms_ko": [],
+      "first_aid_ko": [],
+      "source_name": "ASPCA Toxic and Non-Toxic Plants - Lily",
+      "source_url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/lily",
+      "source_tier": 2,
+      "evidence": "ASPCA Lily (Lilium species) page lists Non-Toxic to Dogs and Non-Toxic to Horses; ASPCA index notes any plant material may cause vomiting/GI upset."
+    },
+    {
+      "substance_ko": "원추리",
+      "substance_en": "Daylily (Hemerocallis spp.)",
+      "type": "plant",
+      "species": "cat",
+      "risk": "danger",
+      "mechanism_ko": "원추리속 식물은 고양이에서 급성 신부전을 일으키며, 잎·줄기·꽃·꽃가루·화병 물·뿌리줄기 등 소량 노출도 위험하다.",
+      "symptoms_ko": [
+        "구토",
+        "복통",
+        "탈수",
+        "급성 신부전"
+      ],
+      "first_aid_ko": [
+        "즉시 동물병원에 데려간다(조기 치료가 매우 중요)",
+        "식물과 화병 물을 치운다",
+        "집에서 임의로 구토를 유도하지 않는다"
+      ],
+      "source_name": "Pet Poison Helpline - Daylily",
+      "source_url": "https://www.petpoisonhelpline.com/poison/day-lily/",
+      "source_tier": 2,
+      "evidence": "Pet Poison Helpline Daylily (Hemerocallis spp) page: any amount of leaf, stem, flower, pollen, vase water or rhizome is toxic to cats; vomiting, abdominal pain, dehydration, acute kidney failure; early vet treatment vital."
+    },
+    {
+      "substance_ko": "은방울꽃",
+      "substance_en": "Lily of the Valley (Convallaria majalis)",
+      "type": "plant",
+      "species": "dog",
+      "risk": "danger",
+      "mechanism_ko": "강심배당체(카데놀라이드, 콘발라린 등)가 심장 리듬과 혈압에 영향을 준다.",
+      "symptoms_ko": [
+        "구토",
+        "부정맥",
+        "저혈압",
+        "방향 감각 상실",
+        "혼수",
+        "경련"
+      ],
+      "first_aid_ko": [
+        "식물을 즉시 치우고 추가 섭취를 막는다",
+        "증상이 없어도 즉시 동물병원 또는 동물 중독상담센터에 연락한다",
+        "집에서 임의로 구토를 유도하지 않는다"
+      ],
+      "source_name": "ASPCA Toxic and Non-Toxic Plants - Lily of the Valley",
+      "source_url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/lily-valley",
+      "source_tier": 2,
+      "evidence": "ASPCA Lily of the Valley page: toxic to dogs, cats, horses; cardenolides (convallarin); vomiting, irregular heart beat, low blood pressure, disorientation, coma, seizures."
+    },
+    {
+      "substance_ko": "은방울꽃",
+      "substance_en": "Lily of the Valley (Convallaria majalis)",
+      "type": "plant",
+      "species": "cat",
+      "risk": "danger",
+      "mechanism_ko": "강심배당체(카데놀라이드, 콘발라린 등)가 심장 리듬과 혈압에 영향을 준다.",
+      "symptoms_ko": [
+        "구토",
+        "부정맥",
+        "저혈압",
+        "방향 감각 상실",
+        "혼수",
+        "경련"
+      ],
+      "first_aid_ko": [
+        "식물을 즉시 치우고 추가 섭취를 막는다",
+        "증상이 없어도 즉시 동물병원 또는 동물 중독상담센터에 연락한다",
+        "집에서 임의로 구토를 유도하지 않는다"
+      ],
+      "source_name": "ASPCA Toxic and Non-Toxic Plants - Lily of the Valley",
+      "source_url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/lily-valley",
+      "source_tier": 2,
+      "evidence": "ASPCA Lily of the Valley page: toxic to dogs, cats, horses; cardenolides (convallarin); vomiting, irregular heart beat, low blood pressure, disorientation, coma, seizures."
+    },
+    {
+      "substance_ko": "스킨답서스(포토스)",
+      "substance_en": "Golden Pothos (Epipremnum aureum)",
+      "type": "plant",
+      "species": "dog",
+      "risk": "caution",
+      "mechanism_ko": "불용성 옥살산칼슘 결정이 입과 위장 점막을 자극한다.",
+      "symptoms_ko": [
+        "구강 자극·작열감",
+        "입·혀·입술 통증 및 자극",
+        "과도한 침 흘림",
+        "구토",
+        "삼킴 곤란"
+      ],
+      "first_aid_ko": [
+        "식물을 치우고 입 주변에 남은 조각을 제거한다",
+        "침 흘림·구토 등 증상이 있거나 섭취량이 많으면 동물병원에 문의한다"
+      ],
+      "source_name": "ASPCA Toxic and Non-Toxic Plants - Golden Pothos",
+      "source_url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/golden-pothos",
+      "source_tier": 2,
+      "evidence": "ASPCA Golden Pothos page: toxic to dogs and cats; insoluble calcium oxalates; oral irritation, burning of mouth/tongue/lips, drooling, vomiting, difficulty swallowing."
+    },
+    {
+      "substance_ko": "스킨답서스(포토스)",
+      "substance_en": "Golden Pothos (Epipremnum aureum)",
+      "type": "plant",
+      "species": "cat",
+      "risk": "caution",
+      "mechanism_ko": "불용성 옥살산칼슘 결정이 입과 위장 점막을 자극한다.",
+      "symptoms_ko": [
+        "구강 자극·작열감",
+        "입·혀·입술 통증 및 자극",
+        "과도한 침 흘림",
+        "구토",
+        "삼킴 곤란"
+      ],
+      "first_aid_ko": [
+        "식물을 치우고 입 주변에 남은 조각을 제거한다",
+        "침 흘림·구토 등 증상이 있거나 섭취량이 많으면 동물병원에 문의한다"
+      ],
+      "source_name": "ASPCA Toxic and Non-Toxic Plants - Golden Pothos",
+      "source_url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/golden-pothos",
+      "source_tier": 2,
+      "evidence": "ASPCA Golden Pothos page: toxic to dogs and cats; insoluble calcium oxalates; oral irritation, burning of mouth/tongue/lips, drooling, vomiting, difficulty swallowing."
+    },
+    {
+      "substance_ko": "필로덴드론",
+      "substance_en": "Heartleaf Philodendron (Philodendron hederaceum)",
+      "type": "plant",
+      "species": "dog",
+      "risk": "caution",
+      "mechanism_ko": "불용성 옥살산칼슘 결정이 입과 위장 점막을 자극한다.",
+      "symptoms_ko": [
+        "구강 자극",
+        "입·혀·입술 통증 및 부종",
+        "과도한 침 흘림",
+        "구토",
+        "삼킴 곤란"
+      ],
+      "first_aid_ko": [
+        "식물을 치우고 입 주변에 남은 조각을 제거한다",
+        "침 흘림·구토 등 증상이 있거나 섭취량이 많으면 동물병원에 문의한다"
+      ],
+      "source_name": "ASPCA Toxic and Non-Toxic Plants - Heartleaf Philodendron",
+      "source_url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/heartleaf-philodendron",
+      "source_tier": 2,
+      "evidence": "ASPCA Heartleaf Philodendron page: toxic to dogs, cats, horses; insoluble calcium oxalates; oral irritation, pain and swelling of mouth/tongue/lips, drooling, vomiting, difficulty swallowing."
+    },
+    {
+      "substance_ko": "필로덴드론",
+      "substance_en": "Heartleaf Philodendron (Philodendron hederaceum)",
+      "type": "plant",
+      "species": "cat",
+      "risk": "caution",
+      "mechanism_ko": "불용성 옥살산칼슘 결정이 입과 위장 점막을 자극한다.",
+      "symptoms_ko": [
+        "구강 자극",
+        "입·혀·입술 통증 및 부종",
+        "과도한 침 흘림",
+        "구토",
+        "삼킴 곤란"
+      ],
+      "first_aid_ko": [
+        "식물을 치우고 입 주변에 남은 조각을 제거한다",
+        "침 흘림·구토 등 증상이 있거나 섭취량이 많으면 동물병원에 문의한다"
+      ],
+      "source_name": "ASPCA Toxic and Non-Toxic Plants - Heartleaf Philodendron",
+      "source_url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/heartleaf-philodendron",
+      "source_tier": 2,
+      "evidence": "ASPCA Heartleaf Philodendron page: toxic to dogs, cats, horses; insoluble calcium oxalates; oral irritation, pain and swelling of mouth/tongue/lips, drooling, vomiting, difficulty swallowing."
+    },
+    {
+      "substance_ko": "몬스테라",
+      "substance_en": "Monstera deliciosa (Mexican Breadfruit)",
+      "type": "plant",
+      "species": "dog",
+      "risk": "caution",
+      "mechanism_ko": "불용성 옥살산칼슘 결정이 입과 위장 점막을 자극한다.",
+      "symptoms_ko": [
+        "구강 자극·작열감",
+        "입·혀·입술 통증 및 자극",
+        "과도한 침 흘림",
+        "구토",
+        "삼킴 곤란"
+      ],
+      "first_aid_ko": [
+        "식물을 치우고 입 주변에 남은 조각을 제거한다",
+        "침 흘림·구토 등 증상이 있거나 섭취량이 많으면 동물병원에 문의한다"
+      ],
+      "source_name": "ASPCA Toxic and Non-Toxic Plants - Mexican Breadfruit",
+      "source_url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/mexican-breadfruit",
+      "source_tier": 2,
+      "evidence": "ASPCA Mexican Breadfruit (Monstera deliciosa, aka Swiss Cheese Plant) page: toxic to dogs and cats; insoluble calcium oxalates; oral irritation, drooling, vomiting, difficulty swallowing."
+    },
+    {
+      "substance_ko": "몬스테라",
+      "substance_en": "Monstera deliciosa (Mexican Breadfruit)",
+      "type": "plant",
+      "species": "cat",
+      "risk": "caution",
+      "mechanism_ko": "불용성 옥살산칼슘 결정이 입과 위장 점막을 자극한다.",
+      "symptoms_ko": [
+        "구강 자극·작열감",
+        "입·혀·입술 통증 및 자극",
+        "과도한 침 흘림",
+        "구토",
+        "삼킴 곤란"
+      ],
+      "first_aid_ko": [
+        "식물을 치우고 입 주변에 남은 조각을 제거한다",
+        "침 흘림·구토 등 증상이 있거나 섭취량이 많으면 동물병원에 문의한다"
+      ],
+      "source_name": "ASPCA Toxic and Non-Toxic Plants - Mexican Breadfruit",
+      "source_url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/mexican-breadfruit",
+      "source_tier": 2,
+      "evidence": "ASPCA Mexican Breadfruit (Monstera deliciosa, aka Swiss Cheese Plant) page: toxic to dogs and cats; insoluble calcium oxalates; oral irritation, drooling, vomiting, difficulty swallowing."
+    },
+    {
+      "substance_ko": "디펜바키아",
+      "substance_en": "Dieffenbachia (Dumb Cane)",
+      "type": "plant",
+      "species": "dog",
+      "risk": "caution",
+      "mechanism_ko": "불용성 옥살산칼슘 결정과 단백분해효소가 입과 위장 점막을 자극한다.",
+      "symptoms_ko": [
+        "구강 자극·작열감",
+        "입·혀·입술 통증 및 자극",
+        "과도한 침 흘림",
+        "구토",
+        "삼킴 곤란"
+      ],
+      "first_aid_ko": [
+        "식물을 치우고 입 주변에 남은 조각을 제거한다",
+        "침 흘림·구토 등 증상이 있거나 섭취량이 많으면 동물병원에 문의한다"
+      ],
+      "source_name": "ASPCA Toxic and Non-Toxic Plants - Dieffenbachia",
+      "source_url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/dieffenbachia",
+      "source_tier": 2,
+      "evidence": "ASPCA Dieffenbachia page: toxic to dogs and cats; insoluble calcium oxalates, proteolytic enzyme; oral irritation, drooling, vomiting, difficulty swallowing."
+    },
+    {
+      "substance_ko": "디펜바키아",
+      "substance_en": "Dieffenbachia (Dumb Cane)",
+      "type": "plant",
+      "species": "cat",
+      "risk": "caution",
+      "mechanism_ko": "불용성 옥살산칼슘 결정과 단백분해효소가 입과 위장 점막을 자극한다.",
+      "symptoms_ko": [
+        "구강 자극·작열감",
+        "입·혀·입술 통증 및 자극",
+        "과도한 침 흘림",
+        "구토",
+        "삼킴 곤란"
+      ],
+      "first_aid_ko": [
+        "식물을 치우고 입 주변에 남은 조각을 제거한다",
+        "침 흘림·구토 등 증상이 있거나 섭취량이 많으면 동물병원에 문의한다"
+      ],
+      "source_name": "ASPCA Toxic and Non-Toxic Plants - Dieffenbachia",
+      "source_url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/dieffenbachia",
+      "source_tier": 2,
+      "evidence": "ASPCA Dieffenbachia page: toxic to dogs and cats; insoluble calcium oxalates, proteolytic enzyme; oral irritation, drooling, vomiting, difficulty swallowing."
+    },
+    {
+      "substance_ko": "스파티필름",
+      "substance_en": "Peace Lily (Spathiphyllum)",
+      "type": "plant",
+      "species": "dog",
+      "risk": "caution",
+      "mechanism_ko": "불용성 옥살산칼슘 결정이 입과 위장 점막을 자극한다.",
+      "symptoms_ko": [
+        "구강 자극·작열감",
+        "입·혀·입술 통증 및 자극",
+        "과도한 침 흘림",
+        "구토",
+        "삼킴 곤란"
+      ],
+      "first_aid_ko": [
+        "식물을 치우고 입 주변에 남은 조각을 제거한다",
+        "침 흘림·구토 등 증상이 있거나 섭취량이 많으면 동물병원에 문의한다"
+      ],
+      "source_name": "ASPCA Toxic and Non-Toxic Plants - Peace Lily",
+      "source_url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/peace-lily",
+      "source_tier": 2,
+      "evidence": "ASPCA Peace Lily page: toxic to dogs and cats; insoluble calcium oxalates; oral irritation, drooling, vomiting, difficulty swallowing."
+    },
+    {
+      "substance_ko": "스파티필름",
+      "substance_en": "Peace Lily (Spathiphyllum)",
+      "type": "plant",
+      "species": "cat",
+      "risk": "caution",
+      "mechanism_ko": "불용성 옥살산칼슘 결정이 입과 위장 점막을 자극한다.",
+      "symptoms_ko": [
+        "구강 자극·작열감",
+        "입·혀·입술 통증 및 자극",
+        "과도한 침 흘림",
+        "구토",
+        "삼킴 곤란"
+      ],
+      "first_aid_ko": [
+        "식물을 치우고 입 주변에 남은 조각을 제거한다",
+        "침 흘림·구토 등 증상이 있거나 섭취량이 많으면 동물병원에 문의한다"
+      ],
+      "source_name": "ASPCA Toxic and Non-Toxic Plants - Peace Lily",
+      "source_url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/peace-lily",
+      "source_tier": 2,
+      "evidence": "ASPCA Peace Lily page: toxic to dogs and cats; insoluble calcium oxalates; oral irritation, drooling, vomiting, difficulty swallowing."
+    },
+    {
+      "substance_ko": "칼라(칼라 릴리)",
+      "substance_en": "Calla Lily (Zantedeschia aethiopica)",
+      "type": "plant",
+      "species": "dog",
+      "risk": "caution",
+      "mechanism_ko": "불용성 옥살산칼슘 결정이 입과 위장 점막을 자극한다.",
+      "symptoms_ko": [
+        "구강 자극·작열감",
+        "입·혀·입술 통증 및 자극",
+        "과도한 침 흘림",
+        "구토",
+        "삼킴 곤란"
+      ],
+      "first_aid_ko": [
+        "식물을 치우고 입 주변에 남은 조각을 제거한다",
+        "침 흘림·구토 등 증상이 있거나 섭취량이 많으면 동물병원에 문의한다"
+      ],
+      "source_name": "ASPCA Toxic and Non-Toxic Plants - Calla Lily",
+      "source_url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/calla-lily",
+      "source_tier": 2,
+      "evidence": "ASPCA Calla Lily page: toxic to dogs and cats; insoluble calcium oxalates; oral irritation, drooling, vomiting, difficulty swallowing."
+    },
+    {
+      "substance_ko": "칼라(칼라 릴리)",
+      "substance_en": "Calla Lily (Zantedeschia aethiopica)",
+      "type": "plant",
+      "species": "cat",
+      "risk": "caution",
+      "mechanism_ko": "불용성 옥살산칼슘 결정이 입과 위장 점막을 자극한다.",
+      "symptoms_ko": [
+        "구강 자극·작열감",
+        "입·혀·입술 통증 및 자극",
+        "과도한 침 흘림",
+        "구토",
+        "삼킴 곤란"
+      ],
+      "first_aid_ko": [
+        "식물을 치우고 입 주변에 남은 조각을 제거한다",
+        "침 흘림·구토 등 증상이 있거나 섭취량이 많으면 동물병원에 문의한다"
+      ],
+      "source_name": "ASPCA Toxic and Non-Toxic Plants - Calla Lily",
+      "source_url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/calla-lily",
+      "source_tier": 2,
+      "evidence": "ASPCA Calla Lily page: toxic to dogs and cats; insoluble calcium oxalates; oral irritation, drooling, vomiting, difficulty swallowing."
+    },
+    {
+      "substance_ko": "소철",
+      "substance_en": "Sago Palm (Cycas revoluta)",
+      "type": "plant",
+      "species": "dog",
+      "risk": "danger",
+      "mechanism_ko": "사이카신(cycasin)이 간을 손상시켜 간부전과 응고 장애를 일으킬 수 있다.",
+      "symptoms_ko": [
+        "구토",
+        "검거나 피 섞인 변",
+        "황달",
+        "다갈증",
+        "출혈성 위장염",
+        "멍",
+        "혈액 응고 장애",
+        "간 손상·간부전",
+        "사망"
+      ],
+      "first_aid_ko": [
+        "식물을 즉시 치우고 추가 섭취를 막는다",
+        "증상이 없어도 즉시 동물병원 또는 동물 중독상담센터에 연락한다",
+        "집에서 임의로 구토를 유도하지 않는다"
+      ],
+      "source_name": "ASPCA Toxic and Non-Toxic Plants - Sago Palm",
+      "source_url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/sago-palm",
+      "source_tier": 2,
+      "evidence": "ASPCA Sago Palm page: toxic to dogs, cats, horses; cycasin; vomiting, bloody stools, jaundice, clotting problems, liver damage or failure, death."
+    },
+    {
+      "substance_ko": "소철",
+      "substance_en": "Sago Palm (Cycas revoluta)",
+      "type": "plant",
+      "species": "cat",
+      "risk": "danger",
+      "mechanism_ko": "사이카신(cycasin)이 간을 손상시켜 간부전과 응고 장애를 일으킬 수 있다.",
+      "symptoms_ko": [
+        "구토",
+        "검거나 피 섞인 변",
+        "황달",
+        "다갈증",
+        "출혈성 위장염",
+        "멍",
+        "혈액 응고 장애",
+        "간 손상·간부전",
+        "사망"
+      ],
+      "first_aid_ko": [
+        "식물을 즉시 치우고 추가 섭취를 막는다",
+        "증상이 없어도 즉시 동물병원 또는 동물 중독상담센터에 연락한다",
+        "집에서 임의로 구토를 유도하지 않는다"
+      ],
+      "source_name": "ASPCA Toxic and Non-Toxic Plants - Sago Palm",
+      "source_url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/sago-palm",
+      "source_tier": 2,
+      "evidence": "ASPCA Sago Palm page: toxic to dogs, cats, horses; cycasin; vomiting, bloody stools, jaundice, clotting problems, liver damage or failure, death."
+    },
+    {
+      "substance_ko": "알로에",
+      "substance_en": "Aloe (Aloe vera)",
+      "type": "plant",
+      "species": "dog",
+      "risk": "caution",
+      "mechanism_ko": "사포닌과 안트라퀴논이 위장관을 자극한다. ASPCA는 겔 부분은 먹을 수 있는 것으로 본다.",
+      "symptoms_ko": [
+        "구토",
+        "무기력",
+        "설사"
+      ],
+      "first_aid_ko": [
+        "식물을 치우고 입 주변에 남은 조각을 제거한다",
+        "침 흘림·구토 등 증상이 있거나 섭취량이 많으면 동물병원에 문의한다"
+      ],
+      "source_name": "ASPCA Toxic and Non-Toxic Plants - Aloe",
+      "source_url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/aloe",
+      "source_tier": 2,
+      "evidence": "ASPCA Aloe page: toxic to dogs, cats, horses; saponins, anthraquinones; vomiting, lethargy, diarrhea; the gel is considered edible."
+    },
+    {
+      "substance_ko": "알로에",
+      "substance_en": "Aloe (Aloe vera)",
+      "type": "plant",
+      "species": "cat",
+      "risk": "caution",
+      "mechanism_ko": "사포닌과 안트라퀴논이 위장관을 자극한다. ASPCA는 겔 부분은 먹을 수 있는 것으로 본다.",
+      "symptoms_ko": [
+        "구토",
+        "무기력",
+        "설사"
+      ],
+      "first_aid_ko": [
+        "식물을 치우고 입 주변에 남은 조각을 제거한다",
+        "침 흘림·구토 등 증상이 있거나 섭취량이 많으면 동물병원에 문의한다"
+      ],
+      "source_name": "ASPCA Toxic and Non-Toxic Plants - Aloe",
+      "source_url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/aloe",
+      "source_tier": 2,
+      "evidence": "ASPCA Aloe page: toxic to dogs, cats, horses; saponins, anthraquinones; vomiting, lethargy, diarrhea; the gel is considered edible."
+    },
+    {
+      "substance_ko": "염좌(크라슐라)",
+      "substance_en": "Jade Plant (Crassula argentea)",
+      "type": "plant",
+      "species": "dog",
+      "risk": "caution",
+      "mechanism_ko": "독성 원인 물질은 밝혀지지 않았다. 구토와 함께 기력 저하·운동 실조가 나타날 수 있다.",
+      "symptoms_ko": [
+        "구토",
+        "기력 저하(침울)",
+        "운동 실조"
+      ],
+      "first_aid_ko": [
+        "식물을 치우고 입 주변에 남은 조각을 제거한다",
+        "침 흘림·구토 등 증상이 있거나 섭취량이 많으면 동물병원에 문의한다"
+      ],
+      "source_name": "ASPCA Toxic and Non-Toxic Plants - Jade Plant",
+      "source_url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/jade-plant",
+      "source_tier": 2,
+      "evidence": "ASPCA Jade Plant page: toxic to dogs, cats, horses; toxic principle unknown; vomiting, depression, incoordination."
+    },
+    {
+      "substance_ko": "염좌(크라슐라)",
+      "substance_en": "Jade Plant (Crassula argentea)",
+      "type": "plant",
+      "species": "cat",
+      "risk": "caution",
+      "mechanism_ko": "독성 원인 물질은 밝혀지지 않았다. 구토와 함께 기력 저하·운동 실조가 나타날 수 있다.",
+      "symptoms_ko": [
+        "구토",
+        "기력 저하(침울)",
+        "운동 실조"
+      ],
+      "first_aid_ko": [
+        "식물을 치우고 입 주변에 남은 조각을 제거한다",
+        "침 흘림·구토 등 증상이 있거나 섭취량이 많으면 동물병원에 문의한다"
+      ],
+      "source_name": "ASPCA Toxic and Non-Toxic Plants - Jade Plant",
+      "source_url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/jade-plant",
+      "source_tier": 2,
+      "evidence": "ASPCA Jade Plant page: toxic to dogs, cats, horses; toxic principle unknown; vomiting, depression, incoordination."
+    },
+    {
+      "substance_ko": "철쭉·진달래(진달래속)",
+      "substance_en": "Azalea / Rhododendron (Rhododendron spp.)",
+      "type": "plant",
+      "species": "dog",
+      "risk": "danger",
+      "mechanism_ko": "그라야노톡신(grayanotoxin)이 심장 기능에 영향을 주어 심부전까지 일으킬 수 있다.",
+      "symptoms_ko": [
+        "구토",
+        "설사",
+        "쇠약",
+        "심부전"
+      ],
+      "first_aid_ko": [
+        "식물을 즉시 치우고 추가 섭취를 막는다",
+        "증상이 없어도 즉시 동물병원 또는 동물 중독상담센터에 연락한다",
+        "집에서 임의로 구토를 유도하지 않는다"
+      ],
+      "source_name": "ASPCA Toxic and Non-Toxic Plants - Azalea",
+      "source_url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/azalea",
+      "source_tier": 2,
+      "evidence": "ASPCA Azalea (Rhododendron spp) page: toxic to dogs, cats, horses; grayanotoxin; vomiting, diarrhea, weakness, cardiac failure."
+    },
+    {
+      "substance_ko": "철쭉·진달래(진달래속)",
+      "substance_en": "Azalea / Rhododendron (Rhododendron spp.)",
+      "type": "plant",
+      "species": "cat",
+      "risk": "danger",
+      "mechanism_ko": "그라야노톡신(grayanotoxin)이 심장 기능에 영향을 주어 심부전까지 일으킬 수 있다.",
+      "symptoms_ko": [
+        "구토",
+        "설사",
+        "쇠약",
+        "심부전"
+      ],
+      "first_aid_ko": [
+        "식물을 즉시 치우고 추가 섭취를 막는다",
+        "증상이 없어도 즉시 동물병원 또는 동물 중독상담센터에 연락한다",
+        "집에서 임의로 구토를 유도하지 않는다"
+      ],
+      "source_name": "ASPCA Toxic and Non-Toxic Plants - Azalea",
+      "source_url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/azalea",
+      "source_tier": 2,
+      "evidence": "ASPCA Azalea (Rhododendron spp) page: toxic to dogs, cats, horses; grayanotoxin; vomiting, diarrhea, weakness, cardiac failure."
+    },
+    {
+      "substance_ko": "튤립",
+      "substance_en": "Tulip (Tulipa spp.)",
+      "type": "plant",
+      "species": "dog",
+      "risk": "caution",
+      "mechanism_ko": "튤리팔린 A·B가 위장관을 자극하며, 독성 물질은 구근에 가장 많다.",
+      "symptoms_ko": [
+        "구토",
+        "기력 저하(침울)",
+        "설사",
+        "침 흘림 과다"
+      ],
+      "first_aid_ko": [
+        "식물을 치우고 입 주변에 남은 조각을 제거한다",
+        "침 흘림·구토 등 증상이 있거나 섭취량이 많으면 동물병원에 문의한다"
+      ],
+      "source_name": "ASPCA Toxic and Non-Toxic Plants - Tulip",
+      "source_url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/tulip",
+      "source_tier": 2,
+      "evidence": "ASPCA Tulip page: toxic to dogs, cats, horses; tulipalin A and B; vomiting, depression, diarrhea, hypersalivation; highest toxin concentration in bulb."
+    },
+    {
+      "substance_ko": "튤립",
+      "substance_en": "Tulip (Tulipa spp.)",
+      "type": "plant",
+      "species": "cat",
+      "risk": "caution",
+      "mechanism_ko": "튤리팔린 A·B가 위장관을 자극하며, 독성 물질은 구근에 가장 많다.",
+      "symptoms_ko": [
+        "구토",
+        "기력 저하(침울)",
+        "설사",
+        "침 흘림 과다"
+      ],
+      "first_aid_ko": [
+        "식물을 치우고 입 주변에 남은 조각을 제거한다",
+        "침 흘림·구토 등 증상이 있거나 섭취량이 많으면 동물병원에 문의한다"
+      ],
+      "source_name": "ASPCA Toxic and Non-Toxic Plants - Tulip",
+      "source_url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/tulip",
+      "source_tier": 2,
+      "evidence": "ASPCA Tulip page: toxic to dogs, cats, horses; tulipalin A and B; vomiting, depression, diarrhea, hypersalivation; highest toxin concentration in bulb."
+    },
+    {
+      "substance_ko": "칼랑코에",
+      "substance_en": "Kalanchoe (Kalanchoe spp.)",
+      "type": "plant",
+      "species": "dog",
+      "risk": "danger",
+      "mechanism_ko": "부포디에놀라이드가 위장 증상을 일으키며 드물게 심장 리듬 이상을 일으킨다.",
+      "symptoms_ko": [
+        "구토",
+        "설사",
+        "부정맥(드묾)"
+      ],
+      "first_aid_ko": [
+        "식물을 즉시 치우고 추가 섭취를 막는다",
+        "증상이 없어도 즉시 동물병원 또는 동물 중독상담센터에 연락한다",
+        "집에서 임의로 구토를 유도하지 않는다"
+      ],
+      "source_name": "ASPCA Toxic and Non-Toxic Plants - Kalanchoe",
+      "source_url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/kalanchoe",
+      "source_tier": 2,
+      "evidence": "ASPCA Kalanchoe page: toxic to dogs and cats; bufodienolides; vomiting, diarrhea, abnormal heart rhythm (rare)."
+    },
+    {
+      "substance_ko": "칼랑코에",
+      "substance_en": "Kalanchoe (Kalanchoe spp.)",
+      "type": "plant",
+      "species": "cat",
+      "risk": "danger",
+      "mechanism_ko": "부포디에놀라이드가 위장 증상을 일으키며 드물게 심장 리듬 이상을 일으킨다.",
+      "symptoms_ko": [
+        "구토",
+        "설사",
+        "부정맥(드묾)"
+      ],
+      "first_aid_ko": [
+        "식물을 즉시 치우고 추가 섭취를 막는다",
+        "증상이 없어도 즉시 동물병원 또는 동물 중독상담센터에 연락한다",
+        "집에서 임의로 구토를 유도하지 않는다"
+      ],
+      "source_name": "ASPCA Toxic and Non-Toxic Plants - Kalanchoe",
+      "source_url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/kalanchoe",
+      "source_tier": 2,
+      "evidence": "ASPCA Kalanchoe page: toxic to dogs and cats; bufodienolides; vomiting, diarrhea, abnormal heart rhythm (rare)."
+    },
+    {
+      "substance_ko": "포인세티아",
+      "substance_en": "Poinsettia (Euphorbia pulcherrima)",
+      "type": "plant",
+      "species": "dog",
+      "risk": "caution",
+      "mechanism_ko": "자극성 수액이 입과 위를 자극한다. ASPCA는 독성이 일반적으로 과대평가되어 있다고 설명한다.",
+      "symptoms_ko": [
+        "입과 위의 자극",
+        "때때로 구토"
+      ],
+      "first_aid_ko": [
+        "식물을 치우고 입 주변에 남은 조각을 제거한다",
+        "침 흘림·구토 등 증상이 있거나 섭취량이 많으면 동물병원에 문의한다"
+      ],
+      "source_name": "ASPCA Toxic and Non-Toxic Plants - Poinsettia",
+      "source_url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/poinsettia",
+      "source_tier": 2,
+      "evidence": "ASPCA Poinsettia page: toxic to dogs, cats, horses; irritant sap; irritating to mouth and stomach, sometimes vomiting, 'generally over-rated in toxicity'."
+    },
+    {
+      "substance_ko": "포인세티아",
+      "substance_en": "Poinsettia (Euphorbia pulcherrima)",
+      "type": "plant",
+      "species": "cat",
+      "risk": "caution",
+      "mechanism_ko": "자극성 수액이 입과 위를 자극한다. ASPCA는 독성이 일반적으로 과대평가되어 있다고 설명한다.",
+      "symptoms_ko": [
+        "입과 위의 자극",
+        "때때로 구토"
+      ],
+      "first_aid_ko": [
+        "식물을 치우고 입 주변에 남은 조각을 제거한다",
+        "침 흘림·구토 등 증상이 있거나 섭취량이 많으면 동물병원에 문의한다"
+      ],
+      "source_name": "ASPCA Toxic and Non-Toxic Plants - Poinsettia",
+      "source_url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/poinsettia",
+      "source_tier": 2,
+      "evidence": "ASPCA Poinsettia page: toxic to dogs, cats, horses; irritant sap; irritating to mouth and stomach, sometimes vomiting, 'generally over-rated in toxicity'."
+    },
+    {
+      "substance_ko": "아이비(헤데라)",
+      "substance_en": "English Ivy (Hedera helix)",
+      "type": "plant",
+      "species": "dog",
+      "risk": "caution",
+      "mechanism_ko": "트리테르페노이드 사포닌(헤데라게닌)이 위장관을 자극한다. 잎이 열매보다 독성이 강하다.",
+      "symptoms_ko": [
+        "구토",
+        "복통",
+        "침 흘림 과다",
+        "설사"
+      ],
+      "first_aid_ko": [
+        "식물을 치우고 입 주변에 남은 조각을 제거한다",
+        "침 흘림·구토 등 증상이 있거나 섭취량이 많으면 동물병원에 문의한다"
+      ],
+      "source_name": "ASPCA Toxic and Non-Toxic Plants - English Ivy",
+      "source_url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/english-ivy",
+      "source_tier": 2,
+      "evidence": "ASPCA English Ivy page: toxic to dogs, cats, horses; triterpenoid saponins (hederagenin); vomiting, abdominal pain, hypersalivation, diarrhea; foliage more toxic than berries."
+    },
+    {
+      "substance_ko": "아이비(헤데라)",
+      "substance_en": "English Ivy (Hedera helix)",
+      "type": "plant",
+      "species": "cat",
+      "risk": "caution",
+      "mechanism_ko": "트리테르페노이드 사포닌(헤데라게닌)이 위장관을 자극한다. 잎이 열매보다 독성이 강하다.",
+      "symptoms_ko": [
+        "구토",
+        "복통",
+        "침 흘림 과다",
+        "설사"
+      ],
+      "first_aid_ko": [
+        "식물을 치우고 입 주변에 남은 조각을 제거한다",
+        "침 흘림·구토 등 증상이 있거나 섭취량이 많으면 동물병원에 문의한다"
+      ],
+      "source_name": "ASPCA Toxic and Non-Toxic Plants - English Ivy",
+      "source_url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/english-ivy",
+      "source_tier": 2,
+      "evidence": "ASPCA English Ivy page: toxic to dogs, cats, horses; triterpenoid saponins (hederagenin); vomiting, abdominal pain, hypersalivation, diarrhea; foliage more toxic than berries."
+    },
+    {
+      "substance_ko": "산세베리아",
+      "substance_en": "Snake Plant (Sansevieria trifasciata)",
+      "type": "plant",
+      "species": "dog",
+      "risk": "caution",
+      "mechanism_ko": "사포닌이 위장관을 자극한다.",
+      "symptoms_ko": [
+        "메스꺼움",
+        "구토",
+        "설사"
+      ],
+      "first_aid_ko": [
+        "식물을 치우고 입 주변에 남은 조각을 제거한다",
+        "침 흘림·구토 등 증상이 있거나 섭취량이 많으면 동물병원에 문의한다"
+      ],
+      "source_name": "ASPCA Toxic and Non-Toxic Plants - Snake Plant",
+      "source_url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/snake-plant",
+      "source_tier": 2,
+      "evidence": "ASPCA Snake Plant page: toxic to dogs and cats; saponins; nausea, vomiting, diarrhea."
+    },
+    {
+      "substance_ko": "산세베리아",
+      "substance_en": "Snake Plant (Sansevieria trifasciata)",
+      "type": "plant",
+      "species": "cat",
+      "risk": "caution",
+      "mechanism_ko": "사포닌이 위장관을 자극한다.",
+      "symptoms_ko": [
+        "메스꺼움",
+        "구토",
+        "설사"
+      ],
+      "first_aid_ko": [
+        "식물을 치우고 입 주변에 남은 조각을 제거한다",
+        "침 흘림·구토 등 증상이 있거나 섭취량이 많으면 동물병원에 문의한다"
+      ],
+      "source_name": "ASPCA Toxic and Non-Toxic Plants - Snake Plant",
+      "source_url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/snake-plant",
+      "source_tier": 2,
+      "evidence": "ASPCA Snake Plant page: toxic to dogs and cats; saponins; nausea, vomiting, diarrhea."
+    },
+    {
+      "substance_ko": "협죽도",
+      "substance_en": "Oleander (Nerium oleander)",
+      "type": "plant",
+      "species": "dog",
+      "risk": "danger",
+      "mechanism_ko": "강심배당체가 심장에 작용하며 사망에 이를 수 있다.",
+      "symptoms_ko": [
+        "침 흘림",
+        "복통",
+        "설사",
+        "산통",
+        "기력 저하(침울)",
+        "사망"
+      ],
+      "first_aid_ko": [
+        "식물을 즉시 치우고 추가 섭취를 막는다",
+        "증상이 없어도 즉시 동물병원 또는 동물 중독상담센터에 연락한다",
+        "집에서 임의로 구토를 유도하지 않는다"
+      ],
+      "source_name": "ASPCA Toxic and Non-Toxic Plants - Oleander",
+      "source_url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/oleander",
+      "source_tier": 2,
+      "evidence": "ASPCA Oleander page: toxic to dogs, cats, horses; cardiac glycosides; drooling, abdominal pain, diarrhea, colic, depression, death."
+    },
+    {
+      "substance_ko": "협죽도",
+      "substance_en": "Oleander (Nerium oleander)",
+      "type": "plant",
+      "species": "cat",
+      "risk": "danger",
+      "mechanism_ko": "강심배당체가 심장에 작용하며 사망에 이를 수 있다.",
+      "symptoms_ko": [
+        "침 흘림",
+        "복통",
+        "설사",
+        "산통",
+        "기력 저하(침울)",
+        "사망"
+      ],
+      "first_aid_ko": [
+        "식물을 즉시 치우고 추가 섭취를 막는다",
+        "증상이 없어도 즉시 동물병원 또는 동물 중독상담센터에 연락한다",
+        "집에서 임의로 구토를 유도하지 않는다"
+      ],
+      "source_name": "ASPCA Toxic and Non-Toxic Plants - Oleander",
+      "source_url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/oleander",
+      "source_tier": 2,
+      "evidence": "ASPCA Oleander page: toxic to dogs, cats, horses; cardiac glycosides; drooling, abdominal pain, diarrhea, colic, depression, death."
+    },
+    {
+      "substance_ko": "시클라멘",
+      "substance_en": "Cyclamen (Cyclamen spp.)",
+      "type": "plant",
+      "species": "dog",
+      "risk": "danger",
+      "mechanism_ko": "테르페노이드 사포닌이 위장관을 자극하며, 덩이줄기를 많이 먹으면 심장 리듬 이상·경련·사망까지 일으킬 수 있다.",
+      "symptoms_ko": [
+        "침 흘림",
+        "구토",
+        "설사",
+        "(덩이줄기 다량 섭취 시) 부정맥",
+        "경련",
+        "사망"
+      ],
+      "first_aid_ko": [
+        "식물을 즉시 치우고 추가 섭취를 막는다",
+        "증상이 없어도 즉시 동물병원 또는 동물 중독상담센터에 연락한다",
+        "집에서 임의로 구토를 유도하지 않는다"
+      ],
+      "source_name": "ASPCA Toxic and Non-Toxic Plants - Cyclamen",
+      "source_url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/cyclamen",
+      "source_tier": 2,
+      "evidence": "ASPCA Cyclamen page: toxic to dogs, cats, horses; terpenoid saponins; salivation, vomiting, diarrhea; large tuber ingestion: heart rhythm abnormalities, seizures, death."
+    },
+    {
+      "substance_ko": "시클라멘",
+      "substance_en": "Cyclamen (Cyclamen spp.)",
+      "type": "plant",
+      "species": "cat",
+      "risk": "danger",
+      "mechanism_ko": "테르페노이드 사포닌이 위장관을 자극하며, 덩이줄기를 많이 먹으면 심장 리듬 이상·경련·사망까지 일으킬 수 있다.",
+      "symptoms_ko": [
+        "침 흘림",
+        "구토",
+        "설사",
+        "(덩이줄기 다량 섭취 시) 부정맥",
+        "경련",
+        "사망"
+      ],
+      "first_aid_ko": [
+        "식물을 즉시 치우고 추가 섭취를 막는다",
+        "증상이 없어도 즉시 동물병원 또는 동물 중독상담센터에 연락한다",
+        "집에서 임의로 구토를 유도하지 않는다"
+      ],
+      "source_name": "ASPCA Toxic and Non-Toxic Plants - Cyclamen",
+      "source_url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/cyclamen",
+      "source_tier": 2,
+      "evidence": "ASPCA Cyclamen page: toxic to dogs, cats, horses; terpenoid saponins; salivation, vomiting, diarrhea; large tuber ingestion: heart rhythm abnormalities, seizures, death."
+    },
+    {
+      "substance_ko": "접란",
+      "substance_en": "Spider Plant (Chlorophytum comosum)",
+      "type": "plant",
+      "species": "dog",
+      "risk": "safe",
+      "mechanism_ko": "ASPCA가 개와 고양이에게 비독성으로 분류한 식물이다. 다만 어떤 식물이든 많이 먹으면 가벼운 구토·위장 불편이 생길 수 있다.",
+      "symptoms_ko": [],
+      "first_aid_ko": [],
+      "source_name": "ASPCA Toxic and Non-Toxic Plants - Spider Plant",
+      "source_url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/spider-plant",
+      "source_tier": 2,
+      "evidence": "ASPCA Spider Plant page: Non-Toxic to Dogs, Non-Toxic to Cats."
+    },
+    {
+      "substance_ko": "접란",
+      "substance_en": "Spider Plant (Chlorophytum comosum)",
+      "type": "plant",
+      "species": "cat",
+      "risk": "safe",
+      "mechanism_ko": "ASPCA가 개와 고양이에게 비독성으로 분류한 식물이다. 다만 어떤 식물이든 많이 먹으면 가벼운 구토·위장 불편이 생길 수 있다.",
+      "symptoms_ko": [],
+      "first_aid_ko": [],
+      "source_name": "ASPCA Toxic and Non-Toxic Plants - Spider Plant",
+      "source_url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/spider-plant",
+      "source_tier": 2,
+      "evidence": "ASPCA Spider Plant page: Non-Toxic to Dogs, Non-Toxic to Cats."
+    },
+    {
+      "substance_ko": "아레카야자",
+      "substance_en": "Areca Palm (Dypsis lutescens)",
+      "type": "plant",
+      "species": "dog",
+      "risk": "safe",
+      "mechanism_ko": "ASPCA가 개와 고양이에게 비독성으로 분류한 식물이다. 다만 어떤 식물이든 많이 먹으면 가벼운 구토·위장 불편이 생길 수 있다.",
+      "symptoms_ko": [],
+      "first_aid_ko": [],
+      "source_name": "ASPCA Toxic and Non-Toxic Plants - Areca Palm",
+      "source_url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/areca-palm",
+      "source_tier": 2,
+      "evidence": "ASPCA Areca Palm page: Non-Toxic to Dogs, Cats, Horses."
+    },
+    {
+      "substance_ko": "아레카야자",
+      "substance_en": "Areca Palm (Dypsis lutescens)",
+      "type": "plant",
+      "species": "cat",
+      "risk": "safe",
+      "mechanism_ko": "ASPCA가 개와 고양이에게 비독성으로 분류한 식물이다. 다만 어떤 식물이든 많이 먹으면 가벼운 구토·위장 불편이 생길 수 있다.",
+      "symptoms_ko": [],
+      "first_aid_ko": [],
+      "source_name": "ASPCA Toxic and Non-Toxic Plants - Areca Palm",
+      "source_url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/areca-palm",
+      "source_tier": 2,
+      "evidence": "ASPCA Areca Palm page: Non-Toxic to Dogs, Cats, Horses."
+    },
+    {
+      "substance_ko": "보스턴고사리",
+      "substance_en": "Boston Fern (Nephrolepis exaltata 'Bostoniensis')",
+      "type": "plant",
+      "species": "dog",
+      "risk": "safe",
+      "mechanism_ko": "ASPCA가 개와 고양이에게 비독성으로 분류한 식물이다. 다만 어떤 식물이든 많이 먹으면 가벼운 구토·위장 불편이 생길 수 있다.",
+      "symptoms_ko": [],
+      "first_aid_ko": [],
+      "source_name": "ASPCA Toxic and Non-Toxic Plants - Boston Fern",
+      "source_url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/boston-fern",
+      "source_tier": 2,
+      "evidence": "ASPCA Boston Fern page: Non-Toxic to Dogs, Non-Toxic to Cats."
+    },
+    {
+      "substance_ko": "보스턴고사리",
+      "substance_en": "Boston Fern (Nephrolepis exaltata 'Bostoniensis')",
+      "type": "plant",
+      "species": "cat",
+      "risk": "safe",
+      "mechanism_ko": "ASPCA가 개와 고양이에게 비독성으로 분류한 식물이다. 다만 어떤 식물이든 많이 먹으면 가벼운 구토·위장 불편이 생길 수 있다.",
+      "symptoms_ko": [],
+      "first_aid_ko": [],
+      "source_name": "ASPCA Toxic and Non-Toxic Plants - Boston Fern",
+      "source_url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/boston-fern",
+      "source_tier": 2,
+      "evidence": "ASPCA Boston Fern page: Non-Toxic to Dogs, Non-Toxic to Cats."
+    },
+    {
+      "substance_ko": "아프리칸 바이올렛",
+      "substance_en": "African Violet (Saintpaulia spp.)",
+      "type": "plant",
+      "species": "dog",
+      "risk": "safe",
+      "mechanism_ko": "ASPCA가 개와 고양이에게 비독성으로 분류한 식물이다. 다만 어떤 식물이든 많이 먹으면 가벼운 구토·위장 불편이 생길 수 있다.",
+      "symptoms_ko": [],
+      "first_aid_ko": [],
+      "source_name": "ASPCA Toxic and Non-Toxic Plants - African Violet",
+      "source_url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/african-violet",
+      "source_tier": 2,
+      "evidence": "ASPCA African Violet page: Non-Toxic to Dogs, Cats, Horses."
+    },
+    {
+      "substance_ko": "아프리칸 바이올렛",
+      "substance_en": "African Violet (Saintpaulia spp.)",
+      "type": "plant",
+      "species": "cat",
+      "risk": "safe",
+      "mechanism_ko": "ASPCA가 개와 고양이에게 비독성으로 분류한 식물이다. 다만 어떤 식물이든 많이 먹으면 가벼운 구토·위장 불편이 생길 수 있다.",
+      "symptoms_ko": [],
+      "first_aid_ko": [],
+      "source_name": "ASPCA Toxic and Non-Toxic Plants - African Violet",
+      "source_url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/african-violet",
+      "source_tier": 2,
+      "evidence": "ASPCA African Violet page: Non-Toxic to Dogs, Cats, Horses."
+    }
+  ],
+  "interaction": [],
+  "not_found": [
+    "원추리(Hemerocallis) ASPCA 개별 페이지 - day-lily/daylily 슬러그가 색인 페이지로만 열려 확인 불가. Pet Poison Helpline 페이지로 대체(고양이만 언급, 개 행은 넣지 않음)",
+    "Merck Vet Manual 고양이 백합 중독 페이지 - 추정 URL 404, 미사용",
+    "고무나무(rubber-plant), 쿠바월계수(cuban-laurel) - ASPCA 슬러그가 색인 페이지로 열려 확인 불가, 미포함"
+  ]
+}

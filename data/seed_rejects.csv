@@ -1,0 +1,5 @@
+﻿kind,file,item,species,reason
+toxicity,bird.json,소금(염화나트륨),bird,반려조류 근거 아님(야생·가금 연구)
+toxicity,bird.json,항응고성 쥐약(와파린·브로디파쿰 등),bird,반려조류 근거 아님(야생·가금 연구)
+toxicity,bird.json,"곰팡이 핀 사료·곡물(마이코톡신, 아플라톡신)",bird,반려조류 근거 아님(주로 가금 연구) — 수의사 판단 후 추가
+toxicity,bird.json,디클로페낙,bird,반려조류 근거 아님(야생·가금 연구)

@@ -1,0 +1,1172 @@
+{
+  "toxicity": [
+    {
+      "substance_ko": "초콜릿",
+      "substance_en": "chocolate (theobromine/caffeine)",
+      "type": "food",
+      "species": "dog",
+      "risk": "danger",
+      "mechanism_ko": "초콜릿의 테오브로민과 카페인이 신경계를 자극하고 심박을 빠르게 하며 소변량을 늘린다. 코코아 가루·베이킹용 초콜릿이 가장 위험하고 화이트 초콜릿은 함량이 매우 적다.",
+      "symptoms_ko": [
+        "구토",
+        "설사",
+        "갈증",
+        "안절부절·과잉행동",
+        "떨림",
+        "경련",
+        "빠르고 불규칙한 심박",
+        "빠른 호흡",
+        "고열",
+        "혼수"
+      ],
+      "first_aid_ko": [
+        "즉시 수의사 또는 동물 중독 상담기관에 연락한다",
+        "섭취한 제품 포장·성분표를 챙겨 병원에 가져간다"
+      ],
+      "source_name": "Merck Veterinary Manual - Food Hazards (Pet Owner)",
+      "source_url": "https://www.merckvetmanual.com/special-pet-topics/poisoning/food-hazards",
+      "source_tier": 2,
+      "evidence": "Chocolate section: dogs most commonly poisoned; theobromine and caffeine; signs include tremors, seizures, coma; described as potentially life-threatening."
+    },
+    {
+      "substance_ko": "카페인",
+      "substance_en": "caffeine",
+      "type": "food",
+      "species": "dog",
+      "risk": "danger",
+      "mechanism_ko": "커피·차·에너지음료·보충제 등의 카페인에 개는 사람보다 민감하다. 원두·찻잎·보충제 섭취 시 심각한 중독이 생길 수 있다.",
+      "symptoms_ko": [
+        "과잉행동",
+        "위장관 증상",
+        "심박수·리듬·혈압 변화",
+        "떨림",
+        "경련"
+      ],
+      "first_aid_ko": [
+        "즉시 수의사 또는 동물 중독 상담기관에 연락한다",
+        "섭취한 제품 포장·성분표를 챙겨 병원에 가져간다"
+      ],
+      "source_name": "Pet Poison Helpline - Caffeine",
+      "source_url": "https://www.petpoisonhelpline.com/poison/caffeine/",
+      "source_tier": 2,
+      "evidence": "Caffeine page: dogs and cats appear more sensitive than people; grounds, beans, tea bags or supplements could cause serious toxicity incl. tremors, seizures."
+    },
+    {
+      "substance_ko": "카페인",
+      "substance_en": "caffeine",
+      "type": "food",
+      "species": "cat",
+      "risk": "danger",
+      "mechanism_ko": "커피·차·에너지음료·보충제 등의 카페인에 고양이는 사람보다 민감하다. 원두·찻잎·보충제 섭취 시 심각한 중독이 생길 수 있다.",
+      "symptoms_ko": [
+        "과잉행동",
+        "위장관 증상",
+        "심박수·리듬·혈압 변화",
+        "떨림",
+        "경련"
+      ],
+      "first_aid_ko": [
+        "즉시 수의사 또는 동물 중독 상담기관에 연락한다",
+        "섭취한 제품 포장·성분표를 챙겨 병원에 가져간다"
+      ],
+      "source_name": "Pet Poison Helpline - Caffeine",
+      "source_url": "https://www.petpoisonhelpline.com/poison/caffeine/",
+      "source_tier": 2,
+      "evidence": "Caffeine page: dogs and cats appear more sensitive than people; grounds, beans, tea bags or supplements could cause serious toxicity incl. tremors, seizures."
+    },
+    {
+      "substance_ko": "자일리톨",
+      "substance_en": "xylitol",
+      "type": "food",
+      "species": "dog",
+      "risk": "danger",
+      "mechanism_ko": "개에서는 자일리톨이 급격한 인슐린 분비를 일으켜 심한 저혈당을 유발하고, 더 많이 먹으면 간 손상(간괴사)이 생길 수 있다. 껌·사탕·치약·일부 땅콩버터 등에 들어 있다.",
+      "symptoms_ko": [
+        "구토",
+        "무기력",
+        "비틀거림",
+        "경련",
+        "혼수",
+        "황달",
+        "출혈 경향"
+      ],
+      "first_aid_ko": [
+        "즉시 수의사 또는 동물 중독 상담기관에 연락한다",
+        "집에서 임의로 구토를 유도하지 말고 수의사 지시에 따른다",
+        "섭취한 제품 포장·성분표를 챙겨 병원에 가져간다"
+      ],
+      "source_name": "Merck Veterinary Manual - Xylitol Toxicosis in Dogs",
+      "source_url": "https://www.merckvetmanual.com/toxicology/food-hazards/xylitol-toxicosis-in-dogs",
+      "source_tier": 2,
+      "evidence": "Article: dogs only domestic species with reported toxicosis; insulin release -> hypoglycemia, hepatic necrosis; advises against at-home emesis; liver injury cases had high mortality."
+    },
+    {
+      "substance_ko": "포도·건포도",
+      "substance_en": "grapes and raisins",
+      "type": "food",
+      "species": "dog",
+      "risk": "danger",
+      "mechanism_ko": "포도·건포도(주석산이 원인으로 추정)가 일부 개에서 급성 신부전을 일으킨다. 개체별 감수성 차이가 커서 적은 양도 위험할 수 있다.",
+      "symptoms_ko": [
+        "구토",
+        "설사",
+        "무기력",
+        "식욕부진",
+        "복통",
+        "탈수",
+        "물을 많이 마심(다음)",
+        "떨림",
+        "급성 신부전"
+      ],
+      "first_aid_ko": [
+        "즉시 수의사 또는 동물 중독 상담기관에 연락한다",
+        "섭취한 제품 포장·성분표를 챙겨 병원에 가져간다"
+      ],
+      "source_name": "Merck Veterinary Manual - Food Hazards (Pet Owner)",
+      "source_url": "https://www.merckvetmanual.com/special-pet-topics/poisoning/food-hazards",
+      "source_tier": 2,
+      "evidence": "Grapes and raisins section: kidney failure in some dogs within 1-3 days, which usually results in death; tartaric acid content implicated."
+    },
+    {
+      "substance_ko": "양파",
+      "substance_en": "onion",
+      "type": "food",
+      "species": "cat",
+      "risk": "danger",
+      "mechanism_ko": "양파의 황 함유 산화물질이 적혈구를 산화 손상시켜 하인츠소체 용혈성 빈혈과 메트헤모글로빈혈증을 일으킨다. 고양이가 가장 민감하며 생것·익힌 것·건조분말 모두 위험하다.",
+      "symptoms_ko": [
+        "무기력",
+        "식욕부진",
+        "빠른 호흡",
+        "빠른 심박",
+        "운동불내성",
+        "황달",
+        "붉은색 소변(혈색소뇨)",
+        "허탈"
+      ],
+      "first_aid_ko": [
+        "즉시 수의사 또는 동물 중독 상담기관에 연락한다",
+        "증상이 며칠 뒤 나타날 수 있으므로 증상이 없어도 진료를 받는다"
+      ],
+      "source_name": "Merck Veterinary Manual - Garlic and Onion (Allium spp) Toxicosis in Animals",
+      "source_url": "https://www.merckvetmanual.com/toxicology/food-hazards/garlic-and-onion-allium-spp-toxicosis-in-animals",
+      "source_tier": 2,
+      "evidence": "Allium toxicosis page: cats most susceptible, then dogs; raw, cooked, dehydrated forms; Heinz body hemolytic anemia; signs incl. collapse and death."
+    },
+    {
+      "substance_ko": "양파",
+      "substance_en": "onion",
+      "type": "food",
+      "species": "dog",
+      "risk": "danger",
+      "mechanism_ko": "양파의 황 함유 산화물질이 적혈구를 산화 손상시켜 하인츠소체 용혈성 빈혈을 일으킨다. 건조 플레이크·분말·수프 믹스 같은 농축 형태가 특히 문제다.",
+      "symptoms_ko": [
+        "무기력",
+        "식욕부진",
+        "빠른 호흡",
+        "빠른 심박",
+        "운동불내성",
+        "황달",
+        "붉은색 소변(혈색소뇨)",
+        "허탈"
+      ],
+      "first_aid_ko": [
+        "즉시 수의사 또는 동물 중독 상담기관에 연락한다",
+        "증상이 며칠 뒤 나타날 수 있으므로 증상이 없어도 진료를 받는다"
+      ],
+      "source_name": "Merck Veterinary Manual - Garlic and Onion (Allium spp) Toxicosis in Animals",
+      "source_url": "https://www.merckvetmanual.com/toxicology/food-hazards/garlic-and-onion-allium-spp-toxicosis-in-animals",
+      "source_tier": 2,
+      "evidence": "Allium toxicosis page: dogs affected after raw onion ingestion; concentrated forms most commonly involved; hemolysis 3-5 days post exposure; death possible."
+    },
+    {
+      "substance_ko": "마늘",
+      "substance_en": "garlic",
+      "type": "food",
+      "species": "cat",
+      "risk": "danger",
+      "mechanism_ko": "마늘은 양파와 같은 기전(적혈구 산화 손상, 하인츠소체 빈혈)으로 작용하며 양파보다 3~5배 독성이 강하다. 고양이가 가장 민감하다.",
+      "symptoms_ko": [
+        "무기력",
+        "식욕부진",
+        "빠른 호흡",
+        "빠른 심박",
+        "황달",
+        "붉은색 소변(혈색소뇨)",
+        "허탈"
+      ],
+      "first_aid_ko": [
+        "즉시 수의사 또는 동물 중독 상담기관에 연락한다",
+        "증상이 며칠 뒤 나타날 수 있으므로 증상이 없어도 진료를 받는다"
+      ],
+      "source_name": "Merck Veterinary Manual - Garlic and Onion (Allium spp) Toxicosis in Animals",
+      "source_url": "https://www.merckvetmanual.com/toxicology/food-hazards/garlic-and-onion-allium-spp-toxicosis-in-animals",
+      "source_tier": 2,
+      "evidence": "Allium toxicosis page: garlic 3-5 times more toxic than onion; cats most susceptible species; Heinz body anemia, possible death."
+    },
+    {
+      "substance_ko": "마늘",
+      "substance_en": "garlic",
+      "type": "food",
+      "species": "dog",
+      "risk": "danger",
+      "mechanism_ko": "마늘은 양파와 같은 기전(적혈구 산화 손상, 하인츠소체 빈혈)으로 작용하며 양파보다 3~5배 독성이 강하다. 마늘 분말 등 농축 형태가 특히 위험하다.",
+      "symptoms_ko": [
+        "무기력",
+        "식욕부진",
+        "빠른 호흡",
+        "빠른 심박",
+        "황달",
+        "붉은색 소변(혈색소뇨)",
+        "허탈"
+      ],
+      "first_aid_ko": [
+        "즉시 수의사 또는 동물 중독 상담기관에 연락한다",
+        "증상이 며칠 뒤 나타날 수 있으므로 증상이 없어도 진료를 받는다"
+      ],
+      "source_name": "Merck Veterinary Manual - Garlic and Onion (Allium spp) Toxicosis in Animals",
+      "source_url": "https://www.merckvetmanual.com/toxicology/food-hazards/garlic-and-onion-allium-spp-toxicosis-in-animals",
+      "source_tier": 2,
+      "evidence": "Allium toxicosis page: dogs and cats affected by raw, cooked, dehydrated garlic; garlic 3-5x more toxic than onion."
+    },
+    {
+      "substance_ko": "부추·차이브",
+      "substance_en": "chives",
+      "type": "food",
+      "species": "cat",
+      "risk": "danger",
+      "mechanism_ko": "차이브 등 파속(Allium) 식물은 위장 자극과 적혈구 손상을 일으켜 빈혈을 유발할 수 있다. 고양이가 더 민감하다.",
+      "symptoms_ko": [
+        "위장 자극",
+        "적혈구 손상",
+        "빈혈"
+      ],
+      "first_aid_ko": [
+        "즉시 수의사 또는 동물 중독 상담기관에 연락한다"
+      ],
+      "source_name": "ASPCA - People Foods to Avoid Feeding Your Pets",
+      "source_url": "https://www.aspca.org/pet-care/animal-poison-control/people-foods-avoid-feeding-your-pets",
+      "source_tier": 2,
+      "evidence": "Onions, Garlic, Chives section: cats more susceptible, dogs also at risk; GI irritation and red blood cell damage/anemia."
+    },
+    {
+      "substance_ko": "부추·차이브",
+      "substance_en": "chives",
+      "type": "food",
+      "species": "dog",
+      "risk": "danger",
+      "mechanism_ko": "차이브 등 파속(Allium) 식물은 위장 자극과 적혈구 손상을 일으켜 빈혈을 유발할 수 있다.",
+      "symptoms_ko": [
+        "위장 자극",
+        "적혈구 손상",
+        "빈혈"
+      ],
+      "first_aid_ko": [
+        "즉시 수의사 또는 동물 중독 상담기관에 연락한다"
+      ],
+      "source_name": "ASPCA - People Foods to Avoid Feeding Your Pets",
+      "source_url": "https://www.aspca.org/pet-care/animal-poison-control/people-foods-avoid-feeding-your-pets",
+      "source_tier": 2,
+      "evidence": "Onions, Garlic, Chives section: cats more susceptible but dogs also at risk; red blood cell damage and anemia."
+    },
+    {
+      "substance_ko": "마카다미아",
+      "substance_en": "macadamia nuts",
+      "type": "food",
+      "species": "dog",
+      "risk": "caution",
+      "mechanism_ko": "개에서만 이상 반응이 보고되었으며 기전은 밝혀지지 않았다. 대부분 12~48시간 내 회복하지만 심하면 보조 치료가 필요하다.",
+      "symptoms_ko": [
+        "구토",
+        "쇠약",
+        "침울",
+        "비틀거림",
+        "떨림",
+        "발열"
+      ],
+      "first_aid_ko": [
+        "즉시 수의사 또는 동물 중독 상담기관에 연락한다"
+      ],
+      "source_name": "Merck Veterinary Manual - Food Hazards (Pet Owner)",
+      "source_url": "https://www.merckvetmanual.com/special-pet-topics/poisoning/food-hazards",
+      "source_tier": 2,
+      "evidence": "Macadamia section: dogs only species with reported illness; signs within 12 h, most recover without specific treatment; no organ failure/death mentioned."
+    },
+    {
+      "substance_ko": "알코올(에탄올)",
+      "substance_en": "ethanol (alcohol)",
+      "type": "food",
+      "species": "dog",
+      "risk": "danger",
+      "mechanism_ko": "에탄올은 강한 중추신경 억제제로 저체온·저혈당·대사성 산증을 일으킨다. 술 외에 소독용 알코올, 알코올 손소독제, 발효 중인 빵 반죽에도 들어 있다.",
+      "symptoms_ko": [
+        "구토",
+        "설사",
+        "침흘림",
+        "비틀거림",
+        "방향감각 상실",
+        "무기력",
+        "떨림",
+        "호흡곤란",
+        "저체온",
+        "경련",
+        "혼수"
+      ],
+      "first_aid_ko": [
+        "즉시 수의사 또는 동물 중독 상담기관에 연락한다"
+      ],
+      "source_name": "Merck Veterinary Manual - Toxicoses From Alcohols in Animals",
+      "source_url": "https://www.merckvetmanual.com/toxicology/toxicoses-from-household-hazards/toxicoses-from-alcohols-in-animals",
+      "source_tier": 2,
+      "evidence": "Ethanol section (dogs named): CNS depression, hypothermia, hypoglycemia, acidosis; severe cases coma, seizures, death from respiratory failure etc."
+    },
+    {
+      "substance_ko": "생 빵 반죽(이스트)",
+      "substance_en": "raw yeast bread dough",
+      "type": "food",
+      "species": "dog",
+      "risk": "danger",
+      "mechanism_ko": "위 속에서 이스트가 발효하며 반죽이 부풀어 위를 팽창시키고, 생성된 에탄올이 흡수되어 알코올 중독을 일으킨다.",
+      "symptoms_ko": [
+        "헛구역질",
+        "복부 팽만",
+        "침울",
+        "방향감각 상실",
+        "비틀거림",
+        "쇠약",
+        "저체온",
+        "경련",
+        "혼수"
+      ],
+      "first_aid_ko": [
+        "즉시 수의사 또는 동물 중독 상담기관에 연락한다"
+      ],
+      "source_name": "Merck Veterinary Manual - Food Hazards (Pet Owner)",
+      "source_url": "https://www.merckvetmanual.com/special-pet-topics/poisoning/food-hazards",
+      "source_tier": 2,
+      "evidence": "Bread dough section: dogs most commonly involved; stomach distension plus ethanol poisoning; may progress to coma or seizures."
+    },
+    {
+      "substance_ko": "이소프로필알코올",
+      "substance_en": "isopropanol (isopropyl alcohol)",
+      "type": "household",
+      "species": "dog",
+      "risk": "danger",
+      "mechanism_ko": "소독용 알코올·일부 손소독제·알코올 기반 벼룩 스프레이에 들어 있으며 에탄올보다 약 2배 독성이 강하다.",
+      "symptoms_ko": [
+        "구토",
+        "비틀거림",
+        "무기력",
+        "중추신경 억제",
+        "저혈당"
+      ],
+      "first_aid_ko": [
+        "즉시 수의사 또는 동물 중독 상담기관에 연락한다",
+        "피부에 묻었으면 순한 샴푸로 씻어낸다"
+      ],
+      "source_name": "Merck Veterinary Manual - Toxicoses From Alcohols in Animals",
+      "source_url": "https://www.merckvetmanual.com/toxicology/toxicoses-from-household-hazards/toxicoses-from-alcohols-in-animals",
+      "source_tier": 2,
+      "evidence": "Alcohols page: isopropanol ~2x as toxic as ethanol; in dogs small oral amounts can cause serious clinical signs; dermal exposure -> bathe with mild shampoo."
+    },
+    {
+      "substance_ko": "퍼메트린",
+      "substance_en": "permethrin",
+      "type": "household",
+      "species": "cat",
+      "risk": "danger",
+      "mechanism_ko": "합성 피레스로이드계 살충 성분으로 고양이는 피레스로이드를 잘 견디지 못하며 퍼메트린은 고양이에게 매우 독성이 높다. 개용 외부기생충 제품에 들어 있을 수 있다.",
+      "symptoms_ko": [
+        "근육 떨림(근섬유다발수축)",
+        "경련"
+      ],
+      "first_aid_ko": [
+        "즉시 수의사 또는 동물 중독 상담기관에 연락한다",
+        "고양이에게는 개용 벼룩·진드기 제품을 사용하지 말고 라벨의 사용 동물 종을 확인한다",
+        "섭취한 제품 포장·성분표를 챙겨 병원에 가져간다"
+      ],
+      "source_name": "Merck Veterinary Manual - Ectoparasiticides Used in Small Animals",
+      "source_url": "https://www.merckvetmanual.com/pharmacology/ectoparasiticides/ectoparasiticides-used-in-small-animals",
+      "source_tier": 2,
+      "evidence": "Pyrethroid section: permethrin can be highly toxic to cats; pyrethroids less well tolerated in cats; fasciculations and seizures; read labels for species restrictions."
+    },
+    {
+      "substance_ko": "티트리 오일",
+      "substance_en": "tea tree oil (melaleuca oil)",
+      "type": "household",
+      "species": "cat",
+      "risk": "danger",
+      "mechanism_ko": "고양이는 정유를 대사하는 간 효소가 부족해 티트리 오일 독성에 취약하다. 고농도 몇 방울을 바르거나 먹어도 심한 중독이 생길 수 있다.",
+      "symptoms_ko": [
+        "침흘림 등 위장관 증상",
+        "비틀거림",
+        "쇠약",
+        "떨림",
+        "혼수",
+        "간부전",
+        "저체온"
+      ],
+      "first_aid_ko": [
+        "즉시 수의사 또는 동물 중독 상담기관에 연락한다",
+        "고농도 정유를 고양이 피부나 털에 직접 바르지 않는다"
+      ],
+      "source_name": "Pet Poison Helpline - Tea Tree Oil",
+      "source_url": "https://www.petpoisonhelpline.com/poison/tea-tree-oil/",
+      "source_tier": 2,
+      "evidence": "Tea tree oil page: concentrated drops topically or orally can cause severe poisoning; signs incl. liver failure in cats and death."
+    },
+    {
+      "substance_ko": "티트리 오일",
+      "substance_en": "tea tree oil (melaleuca oil)",
+      "type": "household",
+      "species": "dog",
+      "risk": "danger",
+      "mechanism_ko": "고농도 티트리 오일은 소량을 바르거나 먹어도 반려동물에게 심한 중독을 일으킬 수 있다. 저농도(1~2% 미만) 제품은 라벨대로 쓰면 일반적으로 문제되지 않는다.",
+      "symptoms_ko": [
+        "침흘림 등 위장관 증상",
+        "비틀거림",
+        "쇠약",
+        "떨림",
+        "혼수",
+        "저체온"
+      ],
+      "first_aid_ko": [
+        "즉시 수의사 또는 동물 중독 상담기관에 연락한다",
+        "100% 원액 티트리 오일을 반려동물에게 바르지 않는다"
+      ],
+      "source_name": "Pet Poison Helpline - Tea Tree Oil",
+      "source_url": "https://www.petpoisonhelpline.com/poison/tea-tree-oil/",
+      "source_tier": 2,
+      "evidence": "Page titled 'Tea Tree Oil Is Toxic To Dogs'; body says concentrated oil causes severe poisoning in pets incl. death (dog named only in title)."
+    },
+    {
+      "substance_ko": "윈터그린 오일",
+      "substance_en": "wintergreen oil",
+      "type": "household",
+      "species": "cat",
+      "risk": "danger",
+      "mechanism_ko": "고양이는 정유를 대사·배출하는 간 효소가 부족하고 페놀류에 매우 민감해 피부·입으로 흡수된 정유에 중독되기 쉽다. 디퓨저 사용 시에도 호흡기 자극이나 털에 묻은 성분을 핥아 노출될 수 있다.",
+      "symptoms_ko": [
+        "침흘림",
+        "구토",
+        "떨림",
+        "비틀거림",
+        "호흡곤란",
+        "느린 심박",
+        "저체온",
+        "간부전"
+      ],
+      "first_aid_ko": [
+        "증상이 보이면 즉시 신선한 공기가 있는 곳으로 옮긴다",
+        "증상이 빨리 사라지지 않으면 응급 진료를 받는다",
+        "고농도 정유를 고양이에게 직접 바르지 않는다"
+      ],
+      "source_name": "Pet Poison Helpline - Essential Oils and Cats",
+      "source_url": "https://www.petpoisonhelpline.com/uncategorized/essential-oils-cats/",
+      "source_tier": 2,
+      "evidence": "Essential Oils and Cats page lists wintergreen oil among oils toxic to cats; systemic signs listed include liver failure; risk depends on oil and dose."
+    },
+    {
+      "substance_ko": "스위트 버치 오일",
+      "substance_en": "sweet birch oil",
+      "type": "household",
+      "species": "cat",
+      "risk": "danger",
+      "mechanism_ko": "고양이는 정유를 대사·배출하는 간 효소가 부족하고 페놀류에 매우 민감해 피부·입으로 흡수된 정유에 중독되기 쉽다. 디퓨저 사용 시에도 호흡기 자극이나 털에 묻은 성분을 핥아 노출될 수 있다.",
+      "symptoms_ko": [
+        "침흘림",
+        "구토",
+        "떨림",
+        "비틀거림",
+        "호흡곤란",
+        "느린 심박",
+        "저체온",
+        "간부전"
+      ],
+      "first_aid_ko": [
+        "증상이 보이면 즉시 신선한 공기가 있는 곳으로 옮긴다",
+        "증상이 빨리 사라지지 않으면 응급 진료를 받는다",
+        "고농도 정유를 고양이에게 직접 바르지 않는다"
+      ],
+      "source_name": "Pet Poison Helpline - Essential Oils and Cats",
+      "source_url": "https://www.petpoisonhelpline.com/uncategorized/essential-oils-cats/",
+      "source_tier": 2,
+      "evidence": "Essential Oils and Cats page lists sweet birch oil among oils toxic to cats; systemic signs listed include liver failure; risk depends on oil and dose."
+    },
+    {
+      "substance_ko": "시트러스 오일(d-리모넨)",
+      "substance_en": "citrus oil (d-limonene)",
+      "type": "household",
+      "species": "cat",
+      "risk": "danger",
+      "mechanism_ko": "고양이는 정유를 대사·배출하는 간 효소가 부족하고 페놀류에 매우 민감해 피부·입으로 흡수된 정유에 중독되기 쉽다. 디퓨저 사용 시에도 호흡기 자극이나 털에 묻은 성분을 핥아 노출될 수 있다.",
+      "symptoms_ko": [
+        "침흘림",
+        "구토",
+        "떨림",
+        "비틀거림",
+        "호흡곤란",
+        "느린 심박",
+        "저체온",
+        "간부전"
+      ],
+      "first_aid_ko": [
+        "증상이 보이면 즉시 신선한 공기가 있는 곳으로 옮긴다",
+        "증상이 빨리 사라지지 않으면 응급 진료를 받는다",
+        "고농도 정유를 고양이에게 직접 바르지 않는다"
+      ],
+      "source_name": "Pet Poison Helpline - Essential Oils and Cats",
+      "source_url": "https://www.petpoisonhelpline.com/uncategorized/essential-oils-cats/",
+      "source_tier": 2,
+      "evidence": "Essential Oils and Cats page lists citrus oil (d-limonene) among oils toxic to cats; systemic signs listed include liver failure; risk depends on oil and dose."
+    },
+    {
+      "substance_ko": "파인 오일",
+      "substance_en": "pine oil",
+      "type": "household",
+      "species": "cat",
+      "risk": "danger",
+      "mechanism_ko": "고양이는 정유를 대사·배출하는 간 효소가 부족하고 페놀류에 매우 민감해 피부·입으로 흡수된 정유에 중독되기 쉽다. 디퓨저 사용 시에도 호흡기 자극이나 털에 묻은 성분을 핥아 노출될 수 있다.",
+      "symptoms_ko": [
+        "침흘림",
+        "구토",
+        "떨림",
+        "비틀거림",
+        "호흡곤란",
+        "느린 심박",
+        "저체온",
+        "간부전"
+      ],
+      "first_aid_ko": [
+        "증상이 보이면 즉시 신선한 공기가 있는 곳으로 옮긴다",
+        "증상이 빨리 사라지지 않으면 응급 진료를 받는다",
+        "고농도 정유를 고양이에게 직접 바르지 않는다"
+      ],
+      "source_name": "Pet Poison Helpline - Essential Oils and Cats",
+      "source_url": "https://www.petpoisonhelpline.com/uncategorized/essential-oils-cats/",
+      "source_tier": 2,
+      "evidence": "Essential Oils and Cats page lists pine oil among oils toxic to cats; systemic signs listed include liver failure; risk depends on oil and dose."
+    },
+    {
+      "substance_ko": "일랑일랑 오일",
+      "substance_en": "ylang ylang oil",
+      "type": "household",
+      "species": "cat",
+      "risk": "danger",
+      "mechanism_ko": "고양이는 정유를 대사·배출하는 간 효소가 부족하고 페놀류에 매우 민감해 피부·입으로 흡수된 정유에 중독되기 쉽다. 디퓨저 사용 시에도 호흡기 자극이나 털에 묻은 성분을 핥아 노출될 수 있다.",
+      "symptoms_ko": [
+        "침흘림",
+        "구토",
+        "떨림",
+        "비틀거림",
+        "호흡곤란",
+        "느린 심박",
+        "저체온",
+        "간부전"
+      ],
+      "first_aid_ko": [
+        "증상이 보이면 즉시 신선한 공기가 있는 곳으로 옮긴다",
+        "증상이 빨리 사라지지 않으면 응급 진료를 받는다",
+        "고농도 정유를 고양이에게 직접 바르지 않는다"
+      ],
+      "source_name": "Pet Poison Helpline - Essential Oils and Cats",
+      "source_url": "https://www.petpoisonhelpline.com/uncategorized/essential-oils-cats/",
+      "source_tier": 2,
+      "evidence": "Essential Oils and Cats page lists ylang ylang oil among oils toxic to cats; systemic signs listed include liver failure; risk depends on oil and dose."
+    },
+    {
+      "substance_ko": "페퍼민트 오일",
+      "substance_en": "peppermint oil",
+      "type": "household",
+      "species": "cat",
+      "risk": "danger",
+      "mechanism_ko": "고양이는 정유를 대사·배출하는 간 효소가 부족하고 페놀류에 매우 민감해 피부·입으로 흡수된 정유에 중독되기 쉽다. 디퓨저 사용 시에도 호흡기 자극이나 털에 묻은 성분을 핥아 노출될 수 있다.",
+      "symptoms_ko": [
+        "침흘림",
+        "구토",
+        "떨림",
+        "비틀거림",
+        "호흡곤란",
+        "느린 심박",
+        "저체온",
+        "간부전"
+      ],
+      "first_aid_ko": [
+        "증상이 보이면 즉시 신선한 공기가 있는 곳으로 옮긴다",
+        "증상이 빨리 사라지지 않으면 응급 진료를 받는다",
+        "고농도 정유를 고양이에게 직접 바르지 않는다"
+      ],
+      "source_name": "Pet Poison Helpline - Essential Oils and Cats",
+      "source_url": "https://www.petpoisonhelpline.com/uncategorized/essential-oils-cats/",
+      "source_tier": 2,
+      "evidence": "Essential Oils and Cats page lists peppermint oil among oils toxic to cats; systemic signs listed include liver failure; risk depends on oil and dose."
+    },
+    {
+      "substance_ko": "시나몬 오일",
+      "substance_en": "cinnamon oil",
+      "type": "household",
+      "species": "cat",
+      "risk": "danger",
+      "mechanism_ko": "고양이는 정유를 대사·배출하는 간 효소가 부족하고 페놀류에 매우 민감해 피부·입으로 흡수된 정유에 중독되기 쉽다. 디퓨저 사용 시에도 호흡기 자극이나 털에 묻은 성분을 핥아 노출될 수 있다.",
+      "symptoms_ko": [
+        "침흘림",
+        "구토",
+        "떨림",
+        "비틀거림",
+        "호흡곤란",
+        "느린 심박",
+        "저체온",
+        "간부전"
+      ],
+      "first_aid_ko": [
+        "증상이 보이면 즉시 신선한 공기가 있는 곳으로 옮긴다",
+        "증상이 빨리 사라지지 않으면 응급 진료를 받는다",
+        "고농도 정유를 고양이에게 직접 바르지 않는다"
+      ],
+      "source_name": "Pet Poison Helpline - Essential Oils and Cats",
+      "source_url": "https://www.petpoisonhelpline.com/uncategorized/essential-oils-cats/",
+      "source_tier": 2,
+      "evidence": "Essential Oils and Cats page lists cinnamon oil among oils toxic to cats; systemic signs listed include liver failure; risk depends on oil and dose."
+    },
+    {
+      "substance_ko": "페니로열 오일",
+      "substance_en": "pennyroyal oil",
+      "type": "household",
+      "species": "cat",
+      "risk": "danger",
+      "mechanism_ko": "고양이는 정유를 대사·배출하는 간 효소가 부족하고 페놀류에 매우 민감해 피부·입으로 흡수된 정유에 중독되기 쉽다. 디퓨저 사용 시에도 호흡기 자극이나 털에 묻은 성분을 핥아 노출될 수 있다.",
+      "symptoms_ko": [
+        "침흘림",
+        "구토",
+        "떨림",
+        "비틀거림",
+        "호흡곤란",
+        "느린 심박",
+        "저체온",
+        "간부전"
+      ],
+      "first_aid_ko": [
+        "증상이 보이면 즉시 신선한 공기가 있는 곳으로 옮긴다",
+        "증상이 빨리 사라지지 않으면 응급 진료를 받는다",
+        "고농도 정유를 고양이에게 직접 바르지 않는다"
+      ],
+      "source_name": "Pet Poison Helpline - Essential Oils and Cats",
+      "source_url": "https://www.petpoisonhelpline.com/uncategorized/essential-oils-cats/",
+      "source_tier": 2,
+      "evidence": "Essential Oils and Cats page lists pennyroyal oil among oils toxic to cats; systemic signs listed include liver failure; risk depends on oil and dose."
+    },
+    {
+      "substance_ko": "클로브 오일",
+      "substance_en": "clove oil",
+      "type": "household",
+      "species": "cat",
+      "risk": "danger",
+      "mechanism_ko": "고양이는 정유를 대사·배출하는 간 효소가 부족하고 페놀류에 매우 민감해 피부·입으로 흡수된 정유에 중독되기 쉽다. 디퓨저 사용 시에도 호흡기 자극이나 털에 묻은 성분을 핥아 노출될 수 있다.",
+      "symptoms_ko": [
+        "침흘림",
+        "구토",
+        "떨림",
+        "비틀거림",
+        "호흡곤란",
+        "느린 심박",
+        "저체온",
+        "간부전"
+      ],
+      "first_aid_ko": [
+        "증상이 보이면 즉시 신선한 공기가 있는 곳으로 옮긴다",
+        "증상이 빨리 사라지지 않으면 응급 진료를 받는다",
+        "고농도 정유를 고양이에게 직접 바르지 않는다"
+      ],
+      "source_name": "Pet Poison Helpline - Essential Oils and Cats",
+      "source_url": "https://www.petpoisonhelpline.com/uncategorized/essential-oils-cats/",
+      "source_tier": 2,
+      "evidence": "Essential Oils and Cats page lists clove oil among oils toxic to cats; systemic signs listed include liver failure; risk depends on oil and dose."
+    },
+    {
+      "substance_ko": "유칼립투스 오일",
+      "substance_en": "eucalyptus oil",
+      "type": "household",
+      "species": "cat",
+      "risk": "danger",
+      "mechanism_ko": "고양이는 정유를 대사·배출하는 간 효소가 부족하고 페놀류에 매우 민감해 피부·입으로 흡수된 정유에 중독되기 쉽다. 디퓨저 사용 시에도 호흡기 자극이나 털에 묻은 성분을 핥아 노출될 수 있다.",
+      "symptoms_ko": [
+        "침흘림",
+        "구토",
+        "떨림",
+        "비틀거림",
+        "호흡곤란",
+        "느린 심박",
+        "저체온",
+        "간부전"
+      ],
+      "first_aid_ko": [
+        "증상이 보이면 즉시 신선한 공기가 있는 곳으로 옮긴다",
+        "증상이 빨리 사라지지 않으면 응급 진료를 받는다",
+        "고농도 정유를 고양이에게 직접 바르지 않는다"
+      ],
+      "source_name": "Pet Poison Helpline - Essential Oils and Cats",
+      "source_url": "https://www.petpoisonhelpline.com/uncategorized/essential-oils-cats/",
+      "source_tier": 2,
+      "evidence": "Essential Oils and Cats page lists eucalyptus oil among oils toxic to cats; systemic signs listed include liver failure; risk depends on oil and dose."
+    },
+    {
+      "substance_ko": "아세트아미노펜",
+      "substance_en": "acetaminophen",
+      "type": "drug_ingredient",
+      "species": "cat",
+      "risk": "danger",
+      "mechanism_ko": "고양이는 글루쿠론산 포합 능력이 낮아 독성 대사산물이 쌓이며, 메트헤모글로빈혈증과 하인츠소체 빈혈, 간 손상을 일으킨다. 감기약 복합제에도 흔히 들어 있다.",
+      "symptoms_ko": [
+        "갈색·탁한 잇몸",
+        "얼굴·발 부종",
+        "호흡곤란",
+        "청색증",
+        "무기력",
+        "구토",
+        "황달"
+      ],
+      "first_aid_ko": [
+        "즉시 수의사 또는 동물 중독 상담기관에 연락한다",
+        "섭취한 제품 포장·성분표를 챙겨 병원에 가져간다"
+      ],
+      "source_name": "Merck Veterinary Manual - Toxicoses From Human Analgesics in Animals",
+      "source_url": "https://www.merckvetmanual.com/toxicology/toxicoses-from-human-analgesics/toxicoses-from-human-analgesics-in-animals",
+      "source_tier": 2,
+      "evidence": "Acetaminophen section: cats especially susceptible; low glucuronidation; methemoglobinemia, Heinz bodies, facial/paw edema; possible kidney injury."
+    },
+    {
+      "substance_ko": "아세트아미노펜",
+      "substance_en": "acetaminophen",
+      "type": "drug_ingredient",
+      "species": "dog",
+      "risk": "danger",
+      "mechanism_ko": "개에서는 주로 간 독성(간세포 괴사)이 나타나며, 메트헤모글로빈혈증도 생길 수 있다.",
+      "symptoms_ko": [
+        "식욕부진",
+        "구토",
+        "복통",
+        "황달",
+        "얼굴·발 부종",
+        "갈색 잇몸"
+      ],
+      "first_aid_ko": [
+        "즉시 수의사 또는 동물 중독 상담기관에 연락한다",
+        "섭취한 제품 포장·성분표를 챙겨 병원에 가져간다"
+      ],
+      "source_name": "Merck Veterinary Manual - Toxicoses From Human Analgesics in Animals",
+      "source_url": "https://www.merckvetmanual.com/toxicology/toxicoses-from-human-analgesics/toxicoses-from-human-analgesics-in-animals",
+      "source_tier": 2,
+      "evidence": "Acetaminophen section: in dogs hepatotoxicosis, icterus and necrosis more common than in cats; also anorexia, vomiting, facial/paw edema."
+    },
+    {
+      "substance_ko": "이부프로펜",
+      "substance_en": "ibuprofen",
+      "type": "drug_ingredient",
+      "species": "dog",
+      "risk": "danger",
+      "mechanism_ko": "COX를 억제해 프로스타글란딘 생성을 막아 위장관 궤양·천공과 신장 손상을 일으킨다. 개에서 안전역이 좁다.",
+      "symptoms_ko": [
+        "구토",
+        "설사",
+        "복통",
+        "위장관 출혈·궤양",
+        "신부전",
+        "비틀거림",
+        "경련"
+      ],
+      "first_aid_ko": [
+        "즉시 수의사 또는 동물 중독 상담기관에 연락한다",
+        "섭취한 제품 포장·성분표를 챙겨 병원에 가져간다"
+      ],
+      "source_name": "Merck Veterinary Manual - Toxicoses From Human Analgesics in Animals",
+      "source_url": "https://www.merckvetmanual.com/toxicology/toxicoses-from-human-analgesics/toxicoses-from-human-analgesics-in-animals",
+      "source_tier": 2,
+      "evidence": "Ibuprofen section: GI ulceration/perforation, renal damage, seizures; narrow safety margin in dogs, large ingestions potentially lethal."
+    },
+    {
+      "substance_ko": "이부프로펜",
+      "substance_en": "ibuprofen",
+      "type": "drug_ingredient",
+      "species": "cat",
+      "risk": "danger",
+      "mechanism_ko": "COX 억제로 위장관 궤양과 신장 손상을 일으키며, 고양이는 포합 능력이 낮아 개보다 약 절반 수준의 양에서도 중독된다.",
+      "symptoms_ko": [
+        "구토",
+        "설사",
+        "복통",
+        "위장관 출혈·궤양",
+        "신부전",
+        "중추신경 억제",
+        "경련"
+      ],
+      "first_aid_ko": [
+        "즉시 수의사 또는 동물 중독 상담기관에 연락한다",
+        "섭취한 제품 포장·성분표를 챙겨 병원에 가져간다"
+      ],
+      "source_name": "Merck Veterinary Manual - Toxicoses From Human Analgesics in Animals",
+      "source_url": "https://www.merckvetmanual.com/toxicology/toxicoses-from-human-analgesics/toxicoses-from-human-analgesics-in-animals",
+      "source_tier": 2,
+      "evidence": "Ibuprofen section: cats toxic at roughly half the dog dose due to limited glucuronide conjugation; renal failure and CNS effects possible."
+    },
+    {
+      "substance_ko": "나프록센",
+      "substance_en": "naproxen",
+      "type": "drug_ingredient",
+      "species": "dog",
+      "risk": "danger",
+      "mechanism_ko": "NSAID로서 COX를 억제하며 개에서는 장간순환으로 작용이 길게 지속되어 심한 위장관 출혈·궤양을 일으킨다.",
+      "symptoms_ko": [
+        "구토",
+        "검은 변(흑색변)",
+        "토혈",
+        "창백한 잇몸",
+        "쇠약",
+        "복통",
+        "빈혈"
+      ],
+      "first_aid_ko": [
+        "즉시 수의사 또는 동물 중독 상담기관에 연락한다",
+        "섭취한 제품 포장·성분표를 챙겨 병원에 가져간다"
+      ],
+      "source_name": "Merck Veterinary Manual - Toxicoses From Human Analgesics in Animals",
+      "source_url": "https://www.merckvetmanual.com/toxicology/toxicoses-from-human-analgesics/toxicoses-from-human-analgesics-in-animals",
+      "source_tier": 2,
+      "evidence": "Naproxen section: primarily dogs; prolonged effect via enterohepatic recirculation; serious GI bleeding and ulceration; pet-owner page notes perforating ulcers in dogs."
+    },
+    {
+      "substance_ko": "나프록센",
+      "substance_en": "naproxen",
+      "type": "drug_ingredient",
+      "species": "cat",
+      "risk": "danger",
+      "mechanism_ko": "NSAID로서 위장관 출혈·궤양을 일으키며, 고양이는 포합 능력이 낮아 개보다 더 민감할 수 있다.",
+      "symptoms_ko": [
+        "구토",
+        "검은 변(흑색변)",
+        "창백한 잇몸",
+        "쇠약",
+        "복통",
+        "빈혈"
+      ],
+      "first_aid_ko": [
+        "즉시 수의사 또는 동물 중독 상담기관에 연락한다",
+        "섭취한 제품 포장·성분표를 챙겨 병원에 가져간다"
+      ],
+      "source_name": "Merck Veterinary Manual - Poisoning from Human Over-the-Counter Drugs (Pet Owner)",
+      "source_url": "https://www.merckvetmanual.com/special-pet-topics/poisoning/poisoning-from-human-over-the-counter-drugs",
+      "source_tier": 2,
+      "evidence": "Naproxen section (pet owner): dogs and cats named, cats may be more sensitive; GI bleeding, ulcers, anemia."
+    },
+    {
+      "substance_ko": "아스피린",
+      "substance_en": "aspirin (acetylsalicylic acid)",
+      "type": "drug_ingredient",
+      "species": "cat",
+      "risk": "danger",
+      "mechanism_ko": "COX 억제·혈소판 기능 저하·미토콘드리아 장애를 일으키며, 고양이는 아스피린을 매우 느리게 배출해 특히 취약하다.",
+      "symptoms_ko": [
+        "무기력",
+        "식욕부진",
+        "구토(혈토 포함)",
+        "고열",
+        "빠른 호흡",
+        "위궤양",
+        "간 손상",
+        "경련",
+        "혼수",
+        "출혈 경향"
+      ],
+      "first_aid_ko": [
+        "즉시 수의사 또는 동물 중독 상담기관에 연락한다",
+        "섭취한 제품 포장·성분표를 챙겨 병원에 가져간다"
+      ],
+      "source_name": "Merck Veterinary Manual - Toxicoses From Human Analgesics in Animals",
+      "source_url": "https://www.merckvetmanual.com/toxicology/toxicoses-from-human-analgesics/toxicoses-from-human-analgesics-in-animals",
+      "source_tier": 2,
+      "evidence": "Aspirin section: cats very susceptible, slow clearance; GI ulceration, liver necrosis, acidosis, seizures, coma; pet-owner page says large doses can be fatal to cats."
+    },
+    {
+      "substance_ko": "아스피린",
+      "substance_en": "aspirin (acetylsalicylic acid)",
+      "type": "drug_ingredient",
+      "species": "dog",
+      "risk": "danger",
+      "mechanism_ko": "개는 고양이보다 잘 견디지만 COX 억제와 혈소판 기능 저하로 위궤양·출혈이 생길 수 있고, 과량에서는 간 괴사·대사성 산증이 생길 수 있다.",
+      "symptoms_ko": [
+        "구토(혈토 포함)",
+        "식욕부진",
+        "무기력",
+        "위궤양",
+        "출혈 경향",
+        "경련"
+      ],
+      "first_aid_ko": [
+        "즉시 수의사 또는 동물 중독 상담기관에 연락한다",
+        "섭취한 제품 포장·성분표를 챙겨 병원에 가져간다"
+      ],
+      "source_name": "Merck Veterinary Manual - Toxicoses From Human Analgesics in Animals",
+      "source_url": "https://www.merckvetmanual.com/toxicology/toxicoses-from-human-analgesics/toxicoses-from-human-analgesics-in-animals",
+      "source_tier": 2,
+      "evidence": "Aspirin section: dogs tolerate better than cats but prolonged use causes gastric ulcers; overdose signs incl. liver necrosis, seizures, coma (rated danger conservatively)."
+    },
+    {
+      "substance_ko": "슈도에페드린",
+      "substance_en": "pseudoephedrine",
+      "type": "drug_ingredient",
+      "species": "dog",
+      "risk": "danger",
+      "mechanism_ko": "신경계를 자극하는 교감신경 작용제로 심박수·혈압·체온을 올린다. 개는 사람보다 민감하며, 제품명 뒤에 'D'가 붙은 감기·알레르기약에 흔히 들어 있다.",
+      "symptoms_ko": [
+        "구토",
+        "동공 확대",
+        "고혈압",
+        "부정맥",
+        "흥분·안절부절",
+        "떨림",
+        "경련"
+      ],
+      "first_aid_ko": [
+        "즉시 수의사 또는 동물 중독 상담기관에 연락한다",
+        "섭취한 제품 포장·성분표를 챙겨 병원에 가져간다"
+      ],
+      "source_name": "Pet Poison Helpline - Sudafed Toxicity in Pets",
+      "source_url": "https://www.petpoisonhelpline.com/pet-tips/sudafed-toxicity-in-pets/",
+      "source_tier": 2,
+      "evidence": "Sudafed page: dogs and cats more sensitive than humans; stimulant; extremely toxic and even fatal to pets if ingested."
+    },
+    {
+      "substance_ko": "슈도에페드린",
+      "substance_en": "pseudoephedrine",
+      "type": "drug_ingredient",
+      "species": "cat",
+      "risk": "danger",
+      "mechanism_ko": "신경계를 자극하는 교감신경 작용제로 심박수·혈압·체온을 올린다. 고양이는 사람보다 민감하며, 제품명 뒤에 'D'가 붙은 감기·알레르기약에 흔히 들어 있다.",
+      "symptoms_ko": [
+        "구토",
+        "동공 확대",
+        "고혈압",
+        "부정맥",
+        "흥분·안절부절",
+        "떨림",
+        "경련"
+      ],
+      "first_aid_ko": [
+        "즉시 수의사 또는 동물 중독 상담기관에 연락한다",
+        "섭취한 제품 포장·성분표를 챙겨 병원에 가져간다"
+      ],
+      "source_name": "Pet Poison Helpline - Sudafed Toxicity in Pets",
+      "source_url": "https://www.petpoisonhelpline.com/pet-tips/sudafed-toxicity-in-pets/",
+      "source_tier": 2,
+      "evidence": "Sudafed page: dogs and cats more sensitive than humans; stimulant; extremely toxic and even fatal to pets if ingested."
+    },
+    {
+      "substance_ko": "페닐레프린",
+      "substance_en": "phenylephrine",
+      "type": "drug_ingredient",
+      "species": "dog",
+      "risk": "caution",
+      "mechanism_ko": "주로 알파1 아드레날린 작용제로, 슈도에페드린보다 안전역이 넓어 대개 증상이 가볍다.",
+      "symptoms_ko": [
+        "구토",
+        "흥분",
+        "초조",
+        "고혈압"
+      ],
+      "first_aid_ko": [
+        "즉시 수의사 또는 동물 중독 상담기관에 연락한다",
+        "섭취한 제품 포장·성분표를 챙겨 병원에 가져간다"
+      ],
+      "source_name": "Merck Veterinary Manual - Toxicoses in Animals From Human Cold and Allergy Medications",
+      "source_url": "https://www.merckvetmanual.com/toxicology/toxicities-from-human-drugs/cold-and-cough-medications-toxicity",
+      "source_tier": 2,
+      "evidence": "Phenylephrine section: mild clinical signs observed in dogs at low exposures; vomiting most common; less severe than pseudoephedrine."
+    },
+    {
+      "substance_ko": "옥시메타졸린",
+      "substance_en": "oxymetazoline",
+      "type": "drug_ingredient",
+      "species": "dog",
+      "risk": "danger",
+      "mechanism_ko": "이미다졸린계 비강·점안 충혈완화제로 알파 아드레날린 작용을 해 개에서 서맥, 부정맥, 혈압 이상, 허탈을 일으킬 수 있다. 섭취 후 30분~4시간 내 증상이 나타난다.",
+      "symptoms_ko": [
+        "구토",
+        "느린 심박(서맥)",
+        "부정맥",
+        "혈압 이상",
+        "헐떡임",
+        "침울",
+        "쇠약",
+        "허탈",
+        "떨림"
+      ],
+      "first_aid_ko": [
+        "즉시 수의사 또는 동물 중독 상담기관에 연락한다",
+        "섭취한 제품 포장·성분표를 챙겨 병원에 가져간다"
+      ],
+      "source_name": "Merck Veterinary Manual - Toxicoses in Animals From Human Cold and Allergy Medications",
+      "source_url": "https://www.merckvetmanual.com/toxicology/toxicities-from-human-drugs/cold-and-cough-medications-toxicity",
+      "source_tier": 2,
+      "evidence": "Imidazoline decongestants section names oxymetazoline; in dogs vomiting, bradycardia, arrhythmias, hypo/hypertension, weakness, collapse within 30 min-4 h."
+    },
+    {
+      "substance_ko": "자일로메타졸린",
+      "substance_en": "xylometazoline",
+      "type": "drug_ingredient",
+      "species": "dog",
+      "risk": "danger",
+      "mechanism_ko": "이미다졸린계 비강·점안 충혈완화제로 알파 아드레날린 작용을 해 개에서 서맥, 부정맥, 혈압 이상, 허탈을 일으킬 수 있다. 섭취 후 30분~4시간 내 증상이 나타난다.",
+      "symptoms_ko": [
+        "구토",
+        "느린 심박(서맥)",
+        "부정맥",
+        "혈압 이상",
+        "헐떡임",
+        "침울",
+        "쇠약",
+        "허탈",
+        "떨림"
+      ],
+      "first_aid_ko": [
+        "즉시 수의사 또는 동물 중독 상담기관에 연락한다",
+        "섭취한 제품 포장·성분표를 챙겨 병원에 가져간다"
+      ],
+      "source_name": "Merck Veterinary Manual - Toxicoses in Animals From Human Cold and Allergy Medications",
+      "source_url": "https://www.merckvetmanual.com/toxicology/toxicities-from-human-drugs/cold-and-cough-medications-toxicity",
+      "source_tier": 2,
+      "evidence": "Imidazoline decongestants section names xylometazoline; in dogs vomiting, bradycardia, arrhythmias, hypo/hypertension, weakness, collapse within 30 min-4 h."
+    },
+    {
+      "substance_ko": "테트라하이드로졸린",
+      "substance_en": "tetrahydrozoline",
+      "type": "drug_ingredient",
+      "species": "dog",
+      "risk": "danger",
+      "mechanism_ko": "이미다졸린계 비강·점안 충혈완화제로 알파 아드레날린 작용을 해 개에서 서맥, 부정맥, 혈압 이상, 허탈을 일으킬 수 있다. 섭취 후 30분~4시간 내 증상이 나타난다.",
+      "symptoms_ko": [
+        "구토",
+        "느린 심박(서맥)",
+        "부정맥",
+        "혈압 이상",
+        "헐떡임",
+        "침울",
+        "쇠약",
+        "허탈",
+        "떨림"
+      ],
+      "first_aid_ko": [
+        "즉시 수의사 또는 동물 중독 상담기관에 연락한다",
+        "섭취한 제품 포장·성분표를 챙겨 병원에 가져간다"
+      ],
+      "source_name": "Merck Veterinary Manual - Toxicoses in Animals From Human Cold and Allergy Medications",
+      "source_url": "https://www.merckvetmanual.com/toxicology/toxicities-from-human-drugs/cold-and-cough-medications-toxicity",
+      "source_tier": 2,
+      "evidence": "Imidazoline decongestants section names tetrahydrozoline; in dogs vomiting, bradycardia, arrhythmias, hypo/hypertension, weakness, collapse within 30 min-4 h."
+    },
+    {
+      "substance_ko": "나파졸린",
+      "substance_en": "naphazoline",
+      "type": "drug_ingredient",
+      "species": "dog",
+      "risk": "danger",
+      "mechanism_ko": "이미다졸린계 비강·점안 충혈완화제로 알파 아드레날린 작용을 해 개에서 서맥, 부정맥, 혈압 이상, 허탈을 일으킬 수 있다. 섭취 후 30분~4시간 내 증상이 나타난다.",
+      "symptoms_ko": [
+        "구토",
+        "느린 심박(서맥)",
+        "부정맥",
+        "혈압 이상",
+        "헐떡임",
+        "침울",
+        "쇠약",
+        "허탈",
+        "떨림"
+      ],
+      "first_aid_ko": [
+        "즉시 수의사 또는 동물 중독 상담기관에 연락한다",
+        "섭취한 제품 포장·성분표를 챙겨 병원에 가져간다"
+      ],
+      "source_name": "Merck Veterinary Manual - Toxicoses in Animals From Human Cold and Allergy Medications",
+      "source_url": "https://www.merckvetmanual.com/toxicology/toxicities-from-human-drugs/cold-and-cough-medications-toxicity",
+      "source_tier": 2,
+      "evidence": "Imidazoline decongestants section names naphazoline; in dogs vomiting, bradycardia, arrhythmias, hypo/hypertension, weakness, collapse within 30 min-4 h."
+    },
+    {
+      "substance_ko": "에페드라(마황)",
+      "substance_en": "ma huang (ephedra)",
+      "type": "drug_ingredient",
+      "species": "dog",
+      "risk": "danger",
+      "mechanism_ko": "마황(에페드라)이 든 보충제는 개에서 강한 흥분 작용을 일으킨다.",
+      "symptoms_ko": [
+        "심한 과잉행동",
+        "떨림",
+        "경련",
+        "구토",
+        "빠른 심박",
+        "발열"
+      ],
+      "first_aid_ko": [
+        "즉시 수의사 또는 동물 중독 상담기관에 연락한다",
+        "섭취한 제품 포장·성분표를 챙겨 병원에 가져간다"
+      ],
+      "source_name": "Merck Veterinary Manual - Poisoning from Human Over-the-Counter Drugs (Pet Owner)",
+      "source_url": "https://www.merckvetmanual.com/special-pet-topics/poisoning/poisoning-from-human-over-the-counter-drugs",
+      "source_tier": 2,
+      "evidence": "Other products: ma huang (ephedra) and guarana in dogs cause severe hyperactivity, tremors, seizures, and death within hours."
+    },
+    {
+      "substance_ko": "과라나",
+      "substance_en": "guarana",
+      "type": "drug_ingredient",
+      "species": "dog",
+      "risk": "danger",
+      "mechanism_ko": "과라나가 든 보충제는 개에서 강한 흥분 작용을 일으킨다.",
+      "symptoms_ko": [
+        "심한 과잉행동",
+        "떨림",
+        "경련",
+        "구토",
+        "빠른 심박",
+        "발열"
+      ],
+      "first_aid_ko": [
+        "즉시 수의사 또는 동물 중독 상담기관에 연락한다",
+        "섭취한 제품 포장·성분표를 챙겨 병원에 가져간다"
+      ],
+      "source_name": "Merck Veterinary Manual - Poisoning from Human Over-the-Counter Drugs (Pet Owner)",
+      "source_url": "https://www.merckvetmanual.com/special-pet-topics/poisoning/poisoning-from-human-over-the-counter-drugs",
+      "source_tier": 2,
+      "evidence": "Other products: ma huang (ephedra) and guarana in dogs cause severe hyperactivity, tremors, seizures, and death within hours."
+    }
+  ],
+  "interaction": [
+    {
+      "a_ko": "아세트아미노펜",
+      "a_en": "acetaminophen",
+      "b_ko": "트라마돌",
+      "b_en": "tramadol",
+      "a_type": "drug_ingredient",
+      "b_type": "drug_ingredient",
+      "species": "cat",
+      "level": "caution",
+      "mechanism_ko": "트라마돌은 아세트아미노펜과 복합제로 흔히 나오며, 이 경우 아세트아미노펜이 추가 독성 원인이 된다. 특히 고양이에서 위험하다.",
+      "advice_ko": "고양이가 트라마돌 함유 사람 약을 먹었으면 아세트아미노펜 복합 여부를 포장에서 확인해 수의사에게 알린다.",
+      "source_name": "Merck Veterinary Manual - Toxicoses From Human Analgesics in Animals",
+      "source_url": "https://www.merckvetmanual.com/toxicology/toxicoses-from-human-analgesics/toxicoses-from-human-analgesics-in-animals",
+      "source_tier": 2,
+      "evidence": "Page notes tramadol is often combined with acetaminophen, another source of toxicity, especially in cats (combination product, not a stated contraindication)."
+    }
+  ],
+  "not_found": [
+    "포도·건포도(고양이): Merck 반려인용 페이지가 고양이 1례 보고만 언급, 증상·결과 불명확해 행 미작성",
+    "자일리톨(고양이): Merck 'Xylitol Toxicosis in Dogs'에 'cats are not at risk for hypoglycemia or liver injury' 문구가 있으나 'non-toxic' 표현이 아니고 제품에 다른 성분이 섞일 수 있어 safe 행으로 넣지 않음(판단 필요)",
+    "초콜릿(고양이): Merck·Pet Poison Helpline 초콜릿 페이지 모두 고양이를 명시하지 않음. ASPCA는 종 미지정",
+    "알코올(고양이)·마카다미아(고양이): 확인한 원문이 개만 명시",
+    "슈도에페드린+항히스타민(펙소페나딘·로라타딘) 복합제: Merck에서 더 심한 증상 언급하나 종 미지정이라 interaction 미작성",
+    "NSAID+스테로이드, NSAID 병용: 확인한 Merck 진통제 중독 페이지에 기술 없음",
+    "페닐레프린(고양이): 원문 종 미지정",
+    "퍼메트린(개용 제품을 고양이에 사용 금지) 문구는 Merck 모기 페이지 검색 요약에만 보였고 원문 직접 확인 못함 — evidence는 Ectoparasiticides 페이지만 사용",
+    "Pet Poison Helpline 개별 페이지 /poison/grapes-raisins/, /poison/permethrin/ 은 404",
+    "safe 행: 확인한 페이지 중 개·고양이에 대해 특정 음식을 명시적으로 non-toxic이라 한 곳 없음(화이트 초콜릿은 '함량 미미'일 뿐)",
+    "소금·우유·견과류·코코넛·감귤(ASPCA): 종 미지정이라 미작성"
+  ]
+}

@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>이거 먹어도 돼?</title>
+  <meta name="description" content="반려동물에게 사람 약·음식·식물이 괜찮은지, 같이 먹여도 되는지 종별로 확인하세요.">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+  <link rel="stylesheet" href="app.css">
+</head>
+<body>
+  <header class="top">
+    <h1>이거 먹어도 돼?</h1>
+    <p class="sub">사람 약·음식·식물, 우리 아이에게 괜찮은지 확인해요</p>
+    <nav class="tabs" role="tablist" aria-label="메뉴">
+      <button type="button" role="tab" id="tab-safety" aria-selected="true" aria-controls="view-safety">🩺 먹어도 돼?</button>
+      <button type="button" role="tab" id="tab-places" aria-selected="false" aria-controls="view-places">📍 내 주변</button>
+    </nav>
+  </header>
+
+  <main id="view-safety" role="tabpanel" aria-labelledby="tab-safety">
+    <section class="block" aria-labelledby="sp-title">
+      <h2 id="sp-title" class="step">1. 어떤 동물인가요?</h2>
+      <div id="species" class="species" role="radiogroup" aria-label="동물 종류"></div>
+    </section>
+
+    <section class="block" aria-labelledby="q-title">
+      <h2 id="q-title" class="step">2. 무엇을 먹었나요? / 먹이려고 하나요?</h2>
+      <form id="search-form" class="search" role="search" autocomplete="off">
+        <input id="q" type="search" inputmode="search" placeholder="예: 타이레놀, 포도, 백합, 초콜릿" aria-label="약 제품명, 성분, 음식, 식물 검색" required>
+        <button type="submit">검색</button>
+      </form>
+      <div class="examples" aria-label="예시 검색어">
+        <button type="button" data-q="타이레놀">타이레놀</button>
+        <button type="button" data-q="포도">포도</button>
+        <button type="button" data-q="아보카도">아보카도</button>
+        <button type="button" data-q="백합">백합</button>
+        <button type="button" data-q="트라마돌">트라마돌</button>
+      </div>
+    </section>
+
+    <section id="results" class="results" aria-live="polite"></section>
+    <section id="combo-result" class="results" aria-live="polite"></section>
+    <section id="clinics" class="results" aria-live="polite"></section>
+  </main>
+
+  <main id="view-places" role="tabpanel" aria-labelledby="tab-places" hidden>
+    <section class="block">
+      <div id="place-cats" class="cat-chips" role="group" aria-label="장소 종류"></div>
+      <div class="place-bar">
+        <button type="button" id="locate" class="ghost small">📍 내 위치로</button>
+        <button type="button" id="search-here" class="ghost small" hidden>이 지역에서 다시 찾기</button>
+      </div>
+      <div id="map" class="map" aria-label="지도"></div>
+      <p id="place-status" class="note"></p>
+      <div id="place-list" class="results"></div>
+      <p class="note">공공데이터(행정안전부 LOCALDATA 인허가 정보, 소관 농림축산식품부) 기준입니다. 영업시간·진료 과목·동반 조건은 방문 전 확인하세요.</p>
+    </section>
+  </main>
+
+  <aside id="tray" class="tray" hidden aria-label="같이 먹여도 되는지 확인할 목록">
+    <div class="tray-inner">
+      <div class="tray-head">
+        <strong>같이 먹여도 될까?</strong>
+        <span id="tray-hint" class="muted">2개 이상 담으면 확인할 수 있어요</span>
+      </div>
+      <ul id="tray-items" class="tray-items"></ul>
+      <div class="tray-actions">
+        <button type="button" id="tray-clear" class="ghost">비우기</button>
+        <button type="button" id="tray-check" class="primary" disabled>같이 써도 되는지 확인</button>
+      </div>
+    </div>
+  </aside>
+
+  <footer class="foot">
+    <p><strong>이 정보는 수의사 진료를 대체하지 않습니다.</strong> 이미 먹었거나 이상 증상이 있으면 바로 동물병원에 연락하세요.</p>
+    <p class="muted">근거: Merck Veterinary Manual, ASPCA, FDA, 수의학 논문 등 공개 자료 · 사용 공공데이터: 식약처 의약품 품목정보, 농림축산검역본부 동물용의약품 품목허가 현황, 행정안전부 동물병원 인허가 정보</p>
+  </footer>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+  <script src="app.js"></script>
+  <script src="places.js"></script>
+</body>
+</html>

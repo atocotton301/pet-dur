@@ -1,0 +1,14 @@
+# 비밀키
+.env
+.env.*
+!.env.example
+# 파이썬
+__pycache__/
+*.pyc
+.venv/
+# 원본 데이터(용량 큼, 재다운로드 가능)
+data/raw/
+*.db
+
+# 재생성 가능한 산출물
+out/

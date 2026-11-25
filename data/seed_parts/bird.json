@@ -1,0 +1,842 @@
+{
+ "toxicity": [
+  {
+   "substance_ko": "아보카도",
+   "substance_en": "avocado (Persea americana)",
+   "type": "food",
+   "species": "bird",
+   "risk": "danger",
+   "mechanism_ko": "잎·껍질·씨 등에 있는 페르신(persin)이 주 독성 성분으로 추정되며, 폐·간 울혈, 부종, 심낭 삼출 등을 일으킨다.",
+   "symptoms_ko": [
+    "호흡곤란",
+    "호흡수 증가",
+    "무기력·우울",
+    "식욕부진",
+    "구토·설사",
+    "급사"
+   ],
+   "first_aid_ko": [
+    "남은 섭취물·포장을 치우고 섭취 추정량 확인",
+    "집에서 구토 유도나 억지 처치 금지",
+    "즉시 조류 진료가 가능한 동물병원에 연락"
+   ],
+   "source_name": "Avian toxicoses: a review (Front Vet Sci 2025)",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12375962/",
+   "source_tier": 1,
+   "evidence": "Sec.15 Avocado: intoxication reported in psittacines; persin presumed toxic agent; signs include dyspnea and sudden death."
+  },
+  {
+   "substance_ko": "아보카도",
+   "substance_en": "avocado (Persea americana)",
+   "type": "food",
+   "species": "bird",
+   "risk": "danger",
+   "mechanism_ko": "식물 전 부위(잎·나무껍질 포함)에 있는 페르신이 원인으로 여겨지며 해독제가 없다.",
+   "symptoms_ko": [
+    "흥분·불안",
+    "깃털 뽑기",
+    "무기력",
+    "식욕부진",
+    "호흡곤란",
+    "심낭 내 액체 저류",
+    "급사"
+   ],
+   "first_aid_ko": [
+    "새에게 아보카도를 절대 주지 않기",
+    "집에서 구토 유도나 억지 처치 금지",
+    "즉시 조류 진료가 가능한 동물병원에 연락"
+   ],
+   "source_name": "Pet Poison Helpline - Top 5 Toxins in Companion Birds",
+   "source_url": "https://www.petpoisonhelpline.com/uncategorized/top-5-toxins-companion-birds/",
+   "source_tier": 2,
+   "evidence": "Avocado section: described as extremely poisonous to caged birds, can cause sudden death; no antidote."
+  },
+  {
+   "substance_ko": "폴리테트라플루오로에틸렌(PTFE, 테플론) 과열 연기",
+   "substance_en": "polytetrafluoroethylene (PTFE/Teflon) fumes from overheated nonstick surfaces",
+   "type": "household",
+   "species": "bird",
+   "risk": "danger",
+   "mechanism_ko": "코팅 프라이팬 등이 약 280°C 이상 과열되면 불화 가스·미세입자가 발생하며, 흡입 시 폐출혈·폐부종과 심근 독성을 일으킨다. 소형 조류(왕관앵무·사랑앵무)가 더 민감하다.",
+   "symptoms_ko": [
+    "호흡곤란",
+    "운동실조",
+    "쇠약",
+    "혼수",
+    "급사"
+   ],
+   "first_aid_ko": [
+    "즉시 환기가 잘 되는 다른 공간으로 새를 옮기기",
+    "창문을 열어 환기",
+    "즉시 조류 진료가 가능한 동물병원에 연락"
+   ],
+   "source_name": "Avian toxicoses: a review (Front Vet Sci 2025)",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12375962/",
+   "source_tier": 1,
+   "evidence": "Sec.3 PTFE: fumes above 280C extremely toxic to birds; cockatiels/budgerigars more sensitive; prognosis often poor."
+  },
+  {
+   "substance_ko": "폴리테트라플루오로에틸렌(PTFE, 테플론) 과열 연기",
+   "substance_en": "polytetrafluoroethylene (PTFE/Teflon) fumes",
+   "type": "household",
+   "species": "bird",
+   "risk": "danger",
+   "mechanism_ko": "빈 냄비 가열·물이 졸아붙은 코팅 조리기구, 다리미, 히트램프 커버 등에서 과열 시 독성 가스가 발생한다. 일상적 조리는 위험하지 않은 것으로 본다.",
+   "symptoms_ko": [
+    "급사(호흡부전)",
+    "호흡곤란",
+    "운동실조",
+    "우울",
+    "불안"
+   ],
+   "first_aid_ko": [
+    "즉시 환기가 잘 되는 다른 공간으로 새를 옮기기",
+    "창문을 열어 환기",
+    "즉시 조류 진료가 가능한 동물병원에 연락"
+   ],
+   "source_name": "Pet Poison Helpline - Top 5 Toxins in Companion Birds",
+   "source_url": "https://www.petpoisonhelpline.com/uncategorized/top-5-toxins-companion-birds/",
+   "source_tier": 2,
+   "evidence": "PTFE section: toxic particles/gases at ~280C; sudden death from respiratory failure; prognosis guarded to poor."
+  },
+  {
+   "substance_ko": "폴리테트라플루오로에틸렌(PTFE, 테플론) 과열 연기",
+   "substance_en": "polytetrafluoroethylene (PTFE/Teflon) gas",
+   "type": "household",
+   "species": "bird",
+   "risk": "danger",
+   "mechanism_ko": "과열된 논스틱 조리기구, 다리미·다리미판 커버, 일부 자가세척 오븐·히트램프에서 가스가 발생하며 소형 조류는 소량 노출로도 폐사할 수 있다.",
+   "symptoms_ko": [
+    "급사",
+    "호흡곤란",
+    "천명음",
+    "운동실조",
+    "쇠약",
+    "발작"
+   ],
+   "first_aid_ko": [
+    "즉시 환기가 잘 되는 다른 공간으로 새를 옮기기",
+    "창문을 열어 환기",
+    "즉시 조류 진료가 가능한 동물병원에 연락"
+   ],
+   "source_name": "MSD Veterinary Manual - Toxicoses of Pet Birds",
+   "source_url": "https://www.msdvetmanual.com/veterinary/exotic-and-laboratory-animals/pet-birds/toxicoses-of-pet-birds",
+   "source_tier": 2,
+   "evidence": "Household Items/PTFE: often only sudden death; small birds may die with minimal exposure; severe lung hemorrhage at necropsy."
+  },
+  {
+   "substance_ko": "초콜릿",
+   "substance_en": "chocolate (theobromine/methylxanthines)",
+   "type": "food",
+   "species": "bird",
+   "risk": "danger",
+   "mechanism_ko": "메틸잔틴(테오브로민·카페인)이 아데노신 수용체 길항·포스포디에스테라제 억제로 중추신경 흥분, 빈맥, 부정맥을 일으킨다. 작은 체구와 높은 대사율 때문에 소량도 위험하다.",
+   "symptoms_ko": [
+    "과잉행동·불안",
+    "빈맥",
+    "근육 떨림",
+    "발작",
+    "구토·설사",
+    "급사"
+   ],
+   "first_aid_ko": [
+    "남은 섭취물·포장을 치우고 섭취 추정량 확인",
+    "집에서 구토 유도나 억지 처치 금지",
+    "즉시 조류 진료가 가능한 동물병원에 연락"
+   ],
+   "source_name": "Avian toxicoses: a review (Front Vet Sci 2025)",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12375962/",
+   "source_tier": 1,
+   "evidence": "Sec.11 Methylxanthines: few reported chocolate toxicosis cases in birds resulted in death (one mynah survived)."
+  },
+  {
+   "substance_ko": "카페인(커피 등)",
+   "substance_en": "caffeine (coffee, caffeine-containing products)",
+   "type": "food",
+   "species": "bird",
+   "risk": "danger",
+   "mechanism_ko": "메틸잔틴으로서 아데노신 수용체를 차단해 중추신경 자극, 빈맥, 부정맥, 혈압 상승을 일으킨다.",
+   "symptoms_ko": [
+    "과잉행동",
+    "심박수 증가",
+    "근육 떨림",
+    "발작",
+    "구토·설사",
+    "급사 가능"
+   ],
+   "first_aid_ko": [
+    "남은 섭취물·포장을 치우고 섭취 추정량 확인",
+    "집에서 구토 유도나 억지 처치 금지",
+    "즉시 조류 진료가 가능한 동물병원에 연락"
+   ],
+   "source_name": "Avian toxicoses: a review (Front Vet Sci 2025)",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12375962/",
+   "source_tier": 1,
+   "evidence": "Sec.11 Methylxanthines: caffeine/coffee listed; even small amounts can cause severe signs incl. seizures and sudden death."
+  },
+  {
+   "substance_ko": "알코올(에탄올)",
+   "substance_en": "alcohol (ethanol)",
+   "type": "food",
+   "species": "bird",
+   "risk": "danger",
+   "mechanism_ko": "GABA 작용 증강·글루타메이트 억제로 중추신경을 억제하고, 고용량에서는 호흡 억제·혼수, 대사성 산증·저혈당을 일으킨다.",
+   "symptoms_ko": [
+    "협조운동 장애",
+    "비행 장애",
+    "신경 증상",
+    "고용량 시 혼수·호흡 억제"
+   ],
+   "first_aid_ko": [
+    "어둡고 조용한 곳에서 다치지 않게 보호",
+    "즉시 조류 진료가 가능한 동물병원에 연락"
+   ],
+   "source_name": "Avian toxicoses: a review (Front Vet Sci 2025)",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12375962/",
+   "source_tier": 1,
+   "evidence": "Sec.9 Alcohol: accidental ingestion reported in pet parrots; high doses cause respiratory depression or coma; supportive care."
+  },
+  {
+   "substance_ko": "소금(염화나트륨)",
+   "substance_en": "salt (sodium chloride)",
+   "type": "food",
+   "species": "bird",
+   "risk": "danger",
+   "mechanism_ko": "과량 섭취 시 혈중 나트륨이 크게 올라 신경 증상과 부종을 일으키며 특이 해독제가 없다.",
+   "symptoms_ko": [
+    "무기력",
+    "협조운동 장애",
+    "후궁반장",
+    "호흡곤란",
+    "비행 불능",
+    "사망"
+   ],
+   "first_aid_ko": [
+    "남은 섭취물·포장을 치우고 섭취 추정량 확인",
+    "집에서 구토 유도나 억지 처치 금지",
+    "즉시 조류 진료가 가능한 동물병원에 연락"
+   ],
+   "source_name": "Avian toxicoses: a review (Front Vet Sci 2025)",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12375962/",
+   "source_tier": 1,
+   "evidence": "Sec.8 NaCl: data from broiler chicks, house sparrows, wild finches (not pet psittacines); signs incl. incoordination and death."
+  },
+  {
+   "substance_ko": "납",
+   "substance_en": "lead",
+   "type": "household",
+   "species": "bird",
+   "risk": "danger",
+   "mechanism_ko": "삼킨 금속이 위(근위)에서 분해되어 흡수되며 연조직·뼈에 축적되어 여러 생화학 과정을 교란하고 신경·신장 손상을 일으킨다.",
+   "symptoms_ko": [
+    "식욕부진·체중감소",
+    "역류",
+    "설사",
+    "우울·운동실조",
+    "발작",
+    "실명",
+    "다음·다뇨",
+    "혈색소뇨"
+   ],
+   "first_aid_ko": [
+    "새가 접근할 수 있는 납 함유 물건(납 페인트, 커튼 추, 스테인드글라스 등) 제거",
+    "즉시 조류 진료가 가능한 동물병원에 연락"
+   ],
+   "source_name": "MSD Veterinary Manual - Toxicoses of Pet Birds",
+   "source_url": "https://www.msdvetmanual.com/veterinary/exotic-and-laboratory-animals/pet-birds/toxicoses-of-pet-birds",
+   "source_tier": 2,
+   "evidence": "Heavy Metal Toxicosis/Lead: signs incl. seizures, blindness; lesions incl. renal nephrosis and nerve demyelination."
+  },
+  {
+   "substance_ko": "납",
+   "substance_en": "lead",
+   "type": "household",
+   "species": "bird",
+   "risk": "danger",
+   "mechanism_ko": "중금속 중독의 대표 원인으로 위장관·신경·신장을 침범하며 신부전까지 갈 수 있다. 앵무류에서 급성 다리 마비의 감별 원인이다.",
+   "symptoms_ko": [
+    "역류",
+    "설사",
+    "식욕부진",
+    "떨림·발작",
+    "다뇨·다음",
+    "녹색 변",
+    "빈혈",
+    "다리 마비"
+   ],
+   "first_aid_ko": [
+    "금속성 물체 제거",
+    "즉시 조류 진료가 가능한 동물병원에 연락"
+   ],
+   "source_name": "Avian toxicoses: a review (Front Vet Sci 2025)",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12375962/",
+   "source_tier": 1,
+   "evidence": "Sec.6 Heavy metals: kidney effects up to renal failure; lead considered for acute pelvic limb paralysis in psittacines."
+  },
+  {
+   "substance_ko": "아연",
+   "substance_en": "zinc",
+   "type": "household",
+   "species": "bird",
+   "risk": "danger",
+   "mechanism_ko": "아연도금 철망·장난감·체인·방울, 1982년 이후 동전 등을 삼켜 발생하며 납과 유사한 증상과 췌장·신장 손상을 일으킨다.",
+   "symptoms_ko": [
+    "식욕부진",
+    "위장관 증상",
+    "쇠약",
+    "역류",
+    "심한 다음·다뇨"
+   ],
+   "first_aid_ko": [
+    "아연도금 철망·장난감·동전 등 제거",
+    "즉시 조류 진료가 가능한 동물병원에 연락"
+   ],
+   "source_name": "Avian toxicoses: a review (Front Vet Sci 2025)",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12375962/",
+   "source_tier": 1,
+   "evidence": "Sec.6 Heavy metals: zinc among most encountered; produces extreme PU/PD and pancreatic-kidney damage."
+  },
+  {
+   "substance_ko": "아연",
+   "substance_en": "zinc",
+   "type": "household",
+   "species": "bird",
+   "risk": "danger",
+   "mechanism_ko": "아연도금 철망·스테이플·못·장난감, 일부 비료·페인트, 징크피리치온 샴푸, 산화아연 등 섭취로 발생하며 반려조류에서 가장 흔한 금속 중독이다.",
+   "symptoms_ko": [
+    "우울",
+    "쇠약",
+    "식욕부진",
+    "구토·역류",
+    "다음·다뇨",
+    "설사"
+   ],
+   "first_aid_ko": [
+    "아연 함유 물건 제거",
+    "즉시 조류 진료가 가능한 동물병원에 연락"
+   ],
+   "source_name": "Pet Poison Helpline - Top 5 Toxins in Companion Birds",
+   "source_url": "https://www.petpoisonhelpline.com/uncategorized/top-5-toxins-companion-birds/",
+   "source_tier": 2,
+   "evidence": "Zinc section: called most common metal poisoning in caged birds; signs similar to lead."
+  },
+  {
+   "substance_ko": "담배 연기(간접흡연)",
+   "substance_en": "second-hand tobacco smoke",
+   "type": "household",
+   "species": "bird",
+   "risk": "caution",
+   "mechanism_ko": "간접흡연과 흡연자의 손·머리카락·옷의 잔여물로 노출되며 만성 호흡기·피부 질환을 일으킨다.",
+   "symptoms_ko": [
+    "기침·재채기",
+    "콧물·눈물",
+    "호흡곤란",
+    "결막염",
+    "깃털 손상·자해"
+   ],
+   "first_aid_ko": [
+    "새를 연기 없는 환경으로 옮기기",
+    "흡연 후 손을 씻고 새를 만지기",
+    "즉시 조류 진료가 가능한 동물병원에 연락"
+   ],
+   "source_name": "MSD Veterinary Manual - Toxicoses of Pet Birds",
+   "source_url": "https://www.msdvetmanual.com/veterinary/exotic-and-laboratory-animals/pet-birds/toxicoses-of-pet-birds",
+   "source_tier": 2,
+   "evidence": "Household Items/Smoke: chronic respiratory and skin disease; remove bird from smoke; smokers should wash hands."
+  },
+  {
+   "substance_ko": "연기(화재·조리 사고)",
+   "substance_en": "smoke (fires, cooking accidents)",
+   "type": "household",
+   "species": "bird",
+   "risk": "danger",
+   "mechanism_ko": "연기에 포함된 일산화탄소·시안화수소·휘발성유기화합물·미세입자가 기도 손상과 저산소증을 일으킨다.",
+   "symptoms_ko": [
+    "호흡곤란",
+    "기침·천명음",
+    "콧물",
+    "무기력",
+    "방향감각 상실",
+    "발작",
+    "사망"
+   ],
+   "first_aid_ko": [
+    "즉시 환기가 잘 되는 다른 공간으로 새를 옮기기",
+    "창문을 열어 환기",
+    "즉시 조류 진료가 가능한 동물병원에 연락"
+   ],
+   "source_name": "Avian toxicoses: a review (Front Vet Sci 2025)",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12375962/",
+   "source_tier": 1,
+   "evidence": "Sec.4 Smoke: respiratory distress, systemic toxicity, even mortality; remove from source, well-ventilated environment."
+  },
+  {
+   "substance_ko": "일산화탄소",
+   "substance_en": "carbon monoxide",
+   "type": "household",
+   "species": "bird",
+   "risk": "danger",
+   "mechanism_ko": "헤모글로빈과 결합해 조직으로의 산소 운반을 막는다. 새는 가스 교환 효율이 높아 흡입 독성에 더 민감하다.",
+   "symptoms_ko": [
+    "급사",
+    "호흡곤란"
+   ],
+   "first_aid_ko": [
+    "즉시 환기가 잘 되는 다른 공간으로 새를 옮기기",
+    "창문을 열어 환기",
+    "즉시 조류 진료가 가능한 동물병원에 연락"
+   ],
+   "source_name": "Avian toxicoses: a review (Front Vet Sci 2025)",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12375962/",
+   "source_tier": 1,
+   "evidence": "Sec.4 Smoke: CO causes hypoxia by binding hemoglobin; indoor heating gas leaks highly dangerous to birds (PPH also lists CO)."
+  },
+  {
+   "substance_ko": "에어로졸·방향제·향초 등 실내 흡입 자극물",
+   "substance_en": "aerosols and airborne irritants (air fresheners, scented candles, hairspray, paints, glues, cleaning products, mothballs, nail polish, new carpet fumes)",
+   "type": "household",
+   "species": "bird",
+   "risk": "danger",
+   "mechanism_ko": "새의 효율적 가스 교환 때문에 흡입한 물질이 혈중으로 더 많이 들어간다. 환기 상태와 사용량에 따라 영향이 다르다.",
+   "symptoms_ko": [
+    "호흡곤란",
+    "눈·코 자극",
+    "면역 저하 가능",
+    "급사 가능"
+   ],
+   "first_aid_ko": [
+    "새를 환기가 잘 되는 다른 방으로 옮기고 창문 열기",
+    "공사·대청소 시에는 냄새가 빠질 때까지 다른 곳에 맡기기",
+    "즉시 조류 진료가 가능한 동물병원에 연락"
+   ],
+   "source_name": "Pet Poison Helpline - Top 5 Toxins in Companion Birds",
+   "source_url": "https://www.petpoisonhelpline.com/uncategorized/top-5-toxins-companion-birds/",
+   "source_tier": 2,
+   "evidence": "Other inhaled toxins: signs vary with dose; can include sudden death; may not be toxic with proper ventilation."
+  },
+  {
+   "substance_ko": "담배(니코틴) 섭취",
+   "substance_en": "tobacco ingestion (nicotine)",
+   "type": "household",
+   "species": "bird",
+   "risk": "danger",
+   "mechanism_ko": "담배를 삼키면 신경계 흥분 증상이 나타나며 사망할 수 있다.",
+   "symptoms_ko": [
+    "과흥분",
+    "발작",
+    "사망"
+   ],
+   "first_aid_ko": [
+    "남은 섭취물·포장을 치우고 섭취 추정량 확인",
+    "집에서 구토 유도나 억지 처치 금지",
+    "즉시 조류 진료가 가능한 동물병원에 연락"
+   ],
+   "source_name": "MSD Veterinary Manual - Toxicoses of Pet Birds",
+   "source_url": "https://www.msdvetmanual.com/veterinary/exotic-and-laboratory-animals/pet-birds/toxicoses-of-pet-birds",
+   "source_tier": 2,
+   "evidence": "Tobacco section: ingestion causes hyperexcitability, seizures and death (nicotine not named specifically)."
+  },
+  {
+   "substance_ko": "티트리 오일",
+   "substance_en": "tea tree oil (Melaleuca alternifolia)",
+   "type": "household",
+   "species": "bird",
+   "risk": "danger",
+   "mechanism_ko": "테르피넨-4-올 등 테르펜 성분이 피부를 통해 흡수되어 신경 증상을 일으킨다. 반려 왕관앵무 증례가 보고되었다.",
+   "symptoms_ko": [
+    "심한 기력저하",
+    "경련",
+    "구토",
+    "혼수"
+   ],
+   "first_aid_ko": [
+    "피부에 묻은 경우 미지근한 물로 씻어내기",
+    "즉시 조류 진료가 가능한 동물병원에 연락"
+   ],
+   "source_name": "Avian toxicoses: a review (Front Vet Sci 2025)",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12375962/",
+   "source_tier": 1,
+   "evidence": "Sec.7 Tea tree oil: pet cockatiel had convulsions, vomiting and coma after topical application; recovered with supportive care."
+  },
+  {
+   "substance_ko": "석유계 탄화수소",
+   "substance_en": "petroleum hydrocarbons",
+   "type": "household",
+   "species": "bird",
+   "risk": "danger",
+   "mechanism_ko": "석유계 제품을 흡입·섭취하면 호흡기·위장관·신경계에 손상을 주고 깃털을 손상시킨다.",
+   "symptoms_ko": [
+    "기침·천명음",
+    "호흡곤란",
+    "구토·설사",
+    "방향감각 상실",
+    "발작"
+   ],
+   "first_aid_ko": [
+    "노출원에서 즉시 분리",
+    "집에서 구토 유도나 억지 처치 금지",
+    "즉시 조류 진료가 가능한 동물병원에 연락"
+   ],
+   "source_name": "Avian toxicoses: a review (Front Vet Sci 2025)",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12375962/",
+   "source_tier": 1,
+   "evidence": "Sec.5 Hydrocarbons: respiratory, GI and neurotoxic effects incl. seizures; crop lavage discouraged (aspiration)."
+  },
+  {
+   "substance_ko": "항응고성 쥐약(와파린·브로디파쿰 등)",
+   "substance_en": "anticoagulant rodenticides (warfarin, brodifacoum)",
+   "type": "household",
+   "species": "bird",
+   "risk": "danger",
+   "mechanism_ko": "비타민 K 에폭사이드 환원효소를 억제해 응고인자를 고갈시키고 출혈을 일으킨다. 2세대 약제는 간에 오래 잔류한다.",
+   "symptoms_ko": [
+    "쇠약",
+    "무기력",
+    "창백한 점막",
+    "구멍(입·항문 등) 출혈",
+    "멍",
+    "치명적 출혈"
+   ],
+   "first_aid_ko": [
+    "남은 섭취물·포장을 치우고 섭취 추정량 확인",
+    "집에서 구토 유도나 억지 처치 금지",
+    "즉시 조류 진료가 가능한 동물병원에 연락"
+   ],
+   "source_name": "Avian toxicoses: a review (Front Vet Sci 2025)",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12375962/",
+   "source_tier": 1,
+   "evidence": "Sec.14 Rodenticides: anticoagulants cause uncontrolled bleeding; Table 1 lists fatal hemorrhage; mostly birds of prey."
+  },
+  {
+   "substance_ko": "브로메탈린(쥐약)",
+   "substance_en": "bromethalin (rodenticide)",
+   "type": "household",
+   "species": "bird",
+   "risk": "danger",
+   "mechanism_ko": "비항응고성 쥐약으로 중추신경계를 침범해 뇌 백질 공포화(부종)를 일으킨다. 야생 코뉴어 앵무 14마리 증례가 보고되었다.",
+   "symptoms_ko": [
+    "뒷다리 부전마비",
+    "연하곤란",
+    "운동실조",
+    "사지 마비",
+    "떨림·발작"
+   ],
+   "first_aid_ko": [
+    "남은 섭취물·포장을 치우고 섭취 추정량 확인",
+    "집에서 구토 유도나 억지 처치 금지",
+    "즉시 조류 진료가 가능한 동물병원에 연락"
+   ],
+   "source_name": "Avian toxicoses: a review (Front Vet Sci 2025)",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12375962/",
+   "source_tier": 1,
+   "evidence": "Sec.14 Rodenticides: bromethalin toxicosis in 14 feral conures with paraparesis progressing to tetraparesis."
+  },
+  {
+   "substance_ko": "곰팡이 핀 사료·곡물(마이코톡신, 아플라톡신)",
+   "substance_en": "moldy feed/grain (mycotoxins, aflatoxin)",
+   "type": "food",
+   "species": "bird",
+   "risk": "danger",
+   "mechanism_ko": "습한 환경에서 보관된 곡물·옥수수·땅콩의 곰팡이 독소가 간(아플라톡신)·신장 손상과 면역억제를 일으키며, 조류는 아플라톡신에 특히 민감하다.",
+   "symptoms_ko": [
+    "무기력",
+    "체중감소",
+    "식욕부진",
+    "역류",
+    "물을 많이 마심(다음)",
+    "설사",
+    "급사(중증)"
+   ],
+   "first_aid_ko": [
+    "곰팡이 핀 사료 즉시 폐기, 건조하게 보관",
+    "즉시 조류 진료가 가능한 동물병원에 연락"
+   ],
+   "source_name": "Avian toxicoses: a review (Front Vet Sci 2025)",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12375962/",
+   "source_tier": 1,
+   "evidence": "Sec.12 Mycotoxins: avian species more susceptible to aflatoxicosis; liver primary target; sudden death in severe cases."
+  },
+  {
+   "substance_ko": "디클로페낙",
+   "substance_en": "diclofenac",
+   "type": "drug_ingredient",
+   "species": "bird",
+   "risk": "danger",
+   "mechanism_ko": "신세뇨관 괴사와 요산 배설 장애를 일으켜 신부전과 내장 통풍을 유발한다(주로 독수리류에서 보고).",
+   "symptoms_ko": [
+    "무기력",
+    "쇠약",
+    "식욕부진",
+    "신경 증상",
+    "신부전"
+   ],
+   "first_aid_ko": [
+    "사람용 소염진통제를 새에게 임의로 주지 않기",
+    "즉시 조류 진료가 가능한 동물병원에 연락"
+   ],
+   "source_name": "Avian toxicoses: a review (Front Vet Sci 2025)",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12375962/",
+   "source_tier": 1,
+   "evidence": "Sec.17 Drugs: diclofenac causes renal failure and visceral gout in birds, mainly vultures; supportive care only."
+  },
+  {
+   "substance_ko": "비타민 D3 과잉(보충제)",
+   "substance_en": "vitamin D3 excess (supplement over-supplementation)",
+   "type": "drug_ingredient",
+   "species": "bird",
+   "risk": "caution",
+   "mechanism_ko": "과량 시 고칼슘혈증으로 연부조직 석회화, 신장 석회화, 내장 통풍을 일으킨다. 마코앵무·회색앵무·왕관앵무가 더 민감하다.",
+   "symptoms_ko": [
+    "우울",
+    "식욕부진",
+    "구토",
+    "다뇨·다음",
+    "관절통",
+    "근육 약화"
+   ],
+   "first_aid_ko": [
+    "보충제 임의 추가 중단",
+    "즉시 조류 진료가 가능한 동물병원에 연락"
+   ],
+   "source_name": "Avian toxicoses: a review (Front Vet Sci 2025)",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12375962/",
+   "source_tier": 1,
+   "evidence": "Sec.19 Hypervitaminosis D: macaws, African greys, cockatiels more susceptible; dose-dependent, causes nephrocalcinosis."
+  },
+  {
+   "substance_ko": "비타민 A 과잉(보충제)",
+   "substance_en": "vitamin A excess (supplement over-supplementation)",
+   "type": "drug_ingredient",
+   "species": "bird",
+   "risk": "caution",
+   "mechanism_ko": "비타민 A 보충제나 간 등 고비타민 A 식품 과다로 축적되어 뼈·눈·피부 이상을 일으킨다.",
+   "symptoms_ko": [
+    "눈 붓기·충혈",
+    "결막염",
+    "눈물 과다·각막 혼탁",
+    "피부 건조·갈라짐",
+    "뼈 이상"
+   ],
+   "first_aid_ko": [
+    "보충제 중단",
+    "즉시 조류 진료가 가능한 동물병원에 연락"
+   ],
+   "source_name": "Avian toxicoses: a review (Front Vet Sci 2025)",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12375962/",
+   "source_tier": 1,
+   "evidence": "Sec.20 Hypervitaminosis A: excess supplements or liver cause eye, skin, bone lesions; treat by discontinuation."
+  },
+  {
+   "substance_ko": "만병초·진달래류(로도덴드론)",
+   "substance_en": "rhododendron (Ericaceae)",
+   "type": "plant",
+   "species": "bird",
+   "risk": "danger",
+   "mechanism_ko": "그라야노톡신이 신경과 심장에 작용한다.",
+   "symptoms_ko": [
+    "발작",
+    "운동실조",
+    "마비",
+    "혼수",
+    "심장 이상"
+   ],
+   "first_aid_ko": [
+    "남은 섭취물·포장을 치우고 섭취 추정량 확인",
+    "집에서 구토 유도나 억지 처치 금지",
+    "즉시 조류 진료가 가능한 동물병원에 연락"
+   ],
+   "source_name": "Avian toxicoses: a review (Front Vet Sci 2025)",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12375962/",
+   "source_tier": 1,
+   "evidence": "Sec.16 Toxic plants: Ericaceae grayanotoxin causes seizures, paralysis, coma, cardiac effects; Table 2 budgerigars (experimental)."
+  },
+  {
+   "substance_ko": "협죽도",
+   "substance_en": "oleander (Nerium oleander)",
+   "type": "plant",
+   "species": "bird",
+   "risk": "danger",
+   "mechanism_ko": "심장 독성을 일으키는 식물이다.",
+   "symptoms_ko": [
+    "심장 독성"
+   ],
+   "first_aid_ko": [
+    "남은 섭취물·포장을 치우고 섭취 추정량 확인",
+    "집에서 구토 유도나 억지 처치 금지",
+    "즉시 조류 진료가 가능한 동물병원에 연락"
+   ],
+   "source_name": "Avian toxicoses: a review (Front Vet Sci 2025)",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12375962/",
+   "source_tier": 1,
+   "evidence": "Sec.16 Toxic plants: oleander causes cardiac toxicities; Table 2 budgerigars, canaries (experimental)."
+  },
+  {
+   "substance_ko": "주목",
+   "substance_en": "yew (Taxus)",
+   "type": "plant",
+   "species": "bird",
+   "risk": "danger",
+   "mechanism_ko": "심장 독성을 일으키는 식물이다.",
+   "symptoms_ko": [
+    "심장 독성"
+   ],
+   "first_aid_ko": [
+    "남은 섭취물·포장을 치우고 섭취 추정량 확인",
+    "집에서 구토 유도나 억지 처치 금지",
+    "즉시 조류 진료가 가능한 동물병원에 연락"
+   ],
+   "source_name": "Avian toxicoses: a review (Front Vet Sci 2025)",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12375962/",
+   "source_tier": 1,
+   "evidence": "Sec.16 Toxic plants: taxus causes cardiac toxicities; Table 2 canaries (clinical), pheasants."
+  },
+  {
+   "substance_ko": "디기탈리스(폭스글러브)",
+   "substance_en": "foxglove (Digitalis purpurea)",
+   "type": "plant",
+   "species": "bird",
+   "risk": "danger",
+   "mechanism_ko": "심장 독성을 일으키는 식물이다.",
+   "symptoms_ko": [
+    "심장 독성"
+   ],
+   "first_aid_ko": [
+    "남은 섭취물·포장을 치우고 섭취 추정량 확인",
+    "집에서 구토 유도나 억지 처치 금지",
+    "즉시 조류 진료가 가능한 동물병원에 연락"
+   ],
+   "source_name": "Avian toxicoses: a review (Front Vet Sci 2025)",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12375962/",
+   "source_tier": 1,
+   "evidence": "Sec.16 Toxic plants: digitalis causes cardiac toxicities; Table 2 canaries (experimental)."
+  },
+  {
+   "substance_ko": "칼랑코에",
+   "substance_en": "kalanchoe (Kalanchoe spp.)",
+   "type": "plant",
+   "species": "bird",
+   "risk": "danger",
+   "mechanism_ko": "흔한 관상용 실내식물로 신경 증상과 사망을 일으킬 수 있다.",
+   "symptoms_ko": [
+    "운동실조",
+    "우울",
+    "근육 떨림",
+    "발작",
+    "마비",
+    "사망"
+   ],
+   "first_aid_ko": [
+    "남은 섭취물·포장을 치우고 섭취 추정량 확인",
+    "집에서 구토 유도나 억지 처치 금지",
+    "즉시 조류 진료가 가능한 동물병원에 연락"
+   ],
+   "source_name": "Avian toxicoses: a review (Front Vet Sci 2025)",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12375962/",
+   "source_tier": 1,
+   "evidence": "Sec.16 Toxic plants: Kalanchoe can cause ataxia, seizures, paralysis and death."
+  },
+  {
+   "substance_ko": "포인세티아",
+   "substance_en": "poinsettia (Euphorbia pulcherrima)",
+   "type": "plant",
+   "species": "bird",
+   "risk": "caution",
+   "mechanism_ko": "위장관 증상을 일으킨다.",
+   "symptoms_ko": [
+    "위장관 증상"
+   ],
+   "first_aid_ko": [
+    "남은 섭취물·포장을 치우고 섭취 추정량 확인",
+    "집에서 구토 유도나 억지 처치 금지",
+    "즉시 조류 진료가 가능한 동물병원에 연락"
+   ],
+   "source_name": "Avian toxicoses: a review (Front Vet Sci 2025)",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12375962/",
+   "source_tier": 1,
+   "evidence": "Sec.16 Toxic plants: Euphorbia pulcherrima induces GI signs; Table 2 budgerigars (experimental)."
+  },
+  {
+   "substance_ko": "디펜바키아",
+   "substance_en": "dieffenbachia",
+   "type": "plant",
+   "species": "bird",
+   "risk": "caution",
+   "mechanism_ko": "반려조류에 독성 식물로 열거되었으나 원문에 구체적 증상 기술은 없다.",
+   "symptoms_ko": [],
+   "first_aid_ko": [
+    "남은 섭취물·포장을 치우고 섭취 추정량 확인",
+    "집에서 구토 유도나 억지 처치 금지",
+    "즉시 조류 진료가 가능한 동물병원에 연락"
+   ],
+   "source_name": "Avian toxicoses: a review (Front Vet Sci 2025)",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12375962/",
+   "source_tier": 1,
+   "evidence": "Sec.16 Table 2 (plants toxic to pet birds): dieffenbachia, canaries (experimental); no signs given."
+  },
+  {
+   "substance_ko": "필로덴드론",
+   "substance_en": "philodendron",
+   "type": "plant",
+   "species": "bird",
+   "risk": "caution",
+   "mechanism_ko": "반려조류에 독성 식물로 열거되었으나 원문에 구체적 증상 기술은 없다.",
+   "symptoms_ko": [],
+   "first_aid_ko": [
+    "남은 섭취물·포장을 치우고 섭취 추정량 확인",
+    "집에서 구토 유도나 억지 처치 금지",
+    "즉시 조류 진료가 가능한 동물병원에 연락"
+   ],
+   "source_name": "Avian toxicoses: a review (Front Vet Sci 2025)",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12375962/",
+   "source_tier": 1,
+   "evidence": "Sec.16 Table 2: philodendron, budgerigars (experimental); no signs given."
+  },
+  {
+   "substance_ko": "크라운베치(코로닐라 바리아)",
+   "substance_en": "crown vetch (Coronilla varia)",
+   "type": "plant",
+   "species": "bird",
+   "risk": "caution",
+   "mechanism_ko": "반려조류에 독성 식물로 열거되었으며 사랑앵무·왕관앵무·모란앵무 임상 보고가 있으나 증상 기술은 없다.",
+   "symptoms_ko": [],
+   "first_aid_ko": [
+    "남은 섭취물·포장을 치우고 섭취 추정량 확인",
+    "집에서 구토 유도나 억지 처치 금지",
+    "즉시 조류 진료가 가능한 동물병원에 연락"
+   ],
+   "source_name": "Avian toxicoses: a review (Front Vet Sci 2025)",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12375962/",
+   "source_tier": 1,
+   "evidence": "Sec.16 Table 2: crown vetch clinical reports in budgerigars, cockatiels, lovebirds; no signs given."
+  },
+  {
+   "substance_ko": "클레마티스",
+   "substance_en": "clematis",
+   "type": "plant",
+   "species": "bird",
+   "risk": "caution",
+   "mechanism_ko": "반려조류에 독성 식물로 열거되었으나 원문에 구체적 증상 기술은 없다.",
+   "symptoms_ko": [],
+   "first_aid_ko": [
+    "남은 섭취물·포장을 치우고 섭취 추정량 확인",
+    "집에서 구토 유도나 억지 처치 금지",
+    "즉시 조류 진료가 가능한 동물병원에 연락"
+   ],
+   "source_name": "Avian toxicoses: a review (Front Vet Sci 2025)",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12375962/",
+   "source_tier": 1,
+   "evidence": "Sec.16 Table 2: clematis, budgerigars (experimental); no signs given."
+  }
+ ],
+ "interaction": [],
+ "not_found": [
+  "양파/마늘(onion/garlic): 3개 출처 모두 언급 없음",
+  "조류 약물 상호작용: 3개 출처 모두 기술 없음 (리뷰는 장기 킬레이션 시 아연·철·망간 고갈을 언급하나 치료 부작용이므로 미기록)",
+  "바르비투르산계(barbiturates): 리뷰 17절, 주로 안락사 사체를 먹은 독수리류 사례라 보호자 관련 성분으로 미기록",
+  "요소(urea): 리뷰 10절, 주로 육계·가금 비료 사례라 미기록",
+  "수은/카드뮴/구리/비소: 리뷰에서 드문 중금속으로만 언급, 조류별 상세 없음",
+  "은방울꽃·루핀·아까시나무(black locust)·버지니아담쟁이·파슬리: 리뷰 표2에서 비둘기/카나리아/타조/오리 대상이거나 증상 기술 없어 미기록",
+  "남조류 독소·농약/잔류성유기오염물질: 야생 물새·맹금류 사례만 있어 미기록",
+  "MSD 페이지는 음식·식물·약물·농약을 다루지 않음"
+ ]
+}
