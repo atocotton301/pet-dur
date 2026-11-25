@@ -14,7 +14,7 @@ from . import logic
 
 DB_PATH = Path(os.environ.get("DB_PATH", Path(__file__).resolve().parent.parent / "data" / "app.db"))
 
-app = FastAPI(title="이거 먹어도 돼? API", version="0.1.0",
+app = FastAPI(title="펫DUR API", version="0.1.0",
               description="반려동물 약·음식·식물 안전 및 병용 조회. " + logic.DISCLAIMER)
 app.add_middleware(CORSMiddleware, allow_origins=os.environ.get("CORS_ORIGINS", "http://localhost:3000").split(","),
                    allow_methods=["GET"], allow_headers=["*"])
