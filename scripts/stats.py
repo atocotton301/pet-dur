@@ -34,8 +34,8 @@ def main() -> None:
     for name, org, owner, src, table, _ in PUBLIC_DATA:
         rows.append((name, org, owner, src, q(con, f"SELECT COUNT(*) FROM {table}")))
     if has_place:
-        for cat, name, src in con.execute("SELECT category, MIN(dataset), MIN(source) FROM place GROUP BY category"):
-            n = q(con, f"SELECT COUNT(*) FROM place WHERE category='{cat}'")
+        for cat, name, src in con.execute("SELECT category_code, MIN(dataset), MIN(source_url) FROM place GROUP BY category_code"):
+            n = q(con, f"SELECT COUNT(*) FROM place WHERE category_code='{cat}'")
             rows.append((name, "행정안전부(LOCALDATA)" if "localdata" in src else src, "농림축산식품부(동물보호법)"
                          if "localdata" in src else "-", src, n))
 

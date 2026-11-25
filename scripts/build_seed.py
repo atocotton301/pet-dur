@@ -32,7 +32,7 @@ ALLOWED_DOMAINS = {
     "frontiersin.org", "vetmed.illinois.edu", "wsu.edu", "aaha.org",
     "cliniciansbrief.com", "plumbs.com", "bluepearlvet.com", "dvm360.com",
     "vin.com", "isvma.org", "vcahospitals.com", "catvets.com",
-    "koreascience.kr", "dailyvet.co.kr",
+    "koreascience.kr", "dailyvet.co.kr", "dailymed.nlm.nih.gov",
 }
 # 용량 정보는 MVP에서 제공하지 않는다 (지시문 7장)
 DOSE_PATTERN = re.compile(r"\d+(\.\d+)?\s*(mg|g|ml|mL|㎎|밀리그램|kg|정|알)\b|mg/kg", re.I)
